@@ -1,0 +1,10 @@
+# BytePlus authentication (preferred)
+BYTEPLUS_ACCESSKEY=
+BYTEPLUS_SECRETKEY=
+
+# Legacy names (still supported by scripts)
+# VOLCENGINE_ACCESS_KEY=
+# VOLCENGINE_SECRET_KEY=
+
+# VOD space name (required)
+VOD_SPACE_NAME=

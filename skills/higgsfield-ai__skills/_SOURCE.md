@@ -1,0 +1,3 @@
+Source: https://github.com/higgsfield-ai/skills
+Commit: 27000402070db19d958789d05b3b52b6f4718d7c
+Mode: all
