@@ -5,7 +5,8 @@
   "path": "skills/content-engine",
   "name": "content-engine",
   "description": "Create platform-native content systems for X, LinkedIn, TikTok, YouTube, newsletters, and repurposed multi-platform campaigns. Use when the user wants social posts, threads, scripts, content calendars, or one source asset adapted cleanly across platforms.",
-  "dir": "skills/affaan-m__everything-claude-code/content-engine"
+  "dir": "skills/affaan-m__everything-claude-code/content-engine",
+  "zip": "zips/affaan-m__everything-claude-code/content-engine.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -13,7 +14,8 @@
   "path": "skills/fal-ai-media",
   "name": "fal-ai-media",
   "description": "Unified media generation via fal.ai MCP — image, video, and audio. Covers text-to-image (Nano Banana), text/image-to-video (Seedance, Kling, Veo 3), text-to-speech (CSM-1B), and video-to-audio (ThinkSound). Use when the user wants to generate images, videos, or audio with AI.",
-  "dir": "skills/affaan-m__everything-claude-code/fal-ai-media"
+  "dir": "skills/affaan-m__everything-claude-code/fal-ai-media",
+  "zip": "zips/affaan-m__everything-claude-code/fal-ai-media.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -21,7 +23,8 @@
   "path": "skills/manim-video",
   "name": "manim-video",
   "description": "Build reusable Manim explainers for technical concepts, graphs, system diagrams, and product walkthroughs, then hand off to the wider ECC video stack if needed. Use when the user wants a clean animated explainer rather than a generic talking-head script.",
-  "dir": "skills/affaan-m__everything-claude-code/manim-video"
+  "dir": "skills/affaan-m__everything-claude-code/manim-video",
+  "zip": "zips/affaan-m__everything-claude-code/manim-video.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -29,7 +32,8 @@
   "path": "skills/remotion-video-creation",
   "name": "remotion-video-creation",
   "description": "Best practices for Remotion - Video creation in React. 29 domain-specific rules covering 3D, animations, audio, captions, charts, transitions, and more. Use when building video in React with Remotion — animations, audio, captions, charts, or transitions.",
-  "dir": "skills/affaan-m__everything-claude-code/remotion-video-creation"
+  "dir": "skills/affaan-m__everything-claude-code/remotion-video-creation",
+  "zip": "zips/affaan-m__everything-claude-code/remotion-video-creation.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -37,7 +41,8 @@
   "path": "skills/taste",
   "name": "taste",
   "description": "Creative-direction layer for music videos and short-form edits in the angelcore / cloud-trance / hyperpop family — a named-genre aesthetic vocabulary, mood + color + light system, beat-synced editing grammar, and a pipeline chaining ECC's video skills from b-roll generation to distribution. Use when",
-  "dir": "skills/affaan-m__everything-claude-code/taste"
+  "dir": "skills/affaan-m__everything-claude-code/taste",
+  "zip": "zips/affaan-m__everything-claude-code/taste.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -45,7 +50,8 @@
   "path": "skills/taste-application",
   "name": "taste-application",
   "description": "Generate new video against a distilled style pack and cut it into a finished piece - plan takes from the reference's cut rhythm, generate on fal, grade with the pack's measured LUT, cut at the measured cadence, weave in existing footage, composite overlay plates, mint 3D props, and verify the result",
-  "dir": "skills/affaan-m__everything-claude-code/taste-application"
+  "dir": "skills/affaan-m__everything-claude-code/taste-application",
+  "zip": "zips/affaan-m__everything-claude-code/taste-application.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -53,7 +59,8 @@
   "path": "skills/taste-distillation",
   "name": "taste-distillation",
   "description": "Measure a set of reference videos into a reusable style pack - colour grade as a 3D LUT, cut rhythm as a shot-length distribution, hero stills, screen-blend overlay plates, and a text spec for a generative model. Use when the user wants to capture the look of reference footage, build a repeatable lo",
-  "dir": "skills/affaan-m__everything-claude-code/taste-distillation"
+  "dir": "skills/affaan-m__everything-claude-code/taste-distillation",
+  "zip": "zips/affaan-m__everything-claude-code/taste-distillation.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -61,7 +68,8 @@
   "path": "skills/tasteforge-video",
   "name": "tasteforge-video",
   "description": "Use for file-driven multimodal image, video, and 3D-asset discovery; taste interviews; distill or apply workflows; style-pack validation; editable EDL/FCPXML export; provenance audits; and offline planning that must fail closed before provider generation.",
-  "dir": "skills/affaan-m__everything-claude-code/tasteforge-video"
+  "dir": "skills/affaan-m__everything-claude-code/tasteforge-video",
+  "zip": "zips/affaan-m__everything-claude-code/tasteforge-video.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -69,7 +77,8 @@
   "path": "skills/video-editing",
   "name": "video-editing",
   "description": "AI-assisted video editing workflows for cutting, structuring, and augmenting real footage. Covers the full pipeline from raw capture through FFmpeg, Remotion, ElevenLabs, fal.ai, and final polish in Descript or CapCut. Use when the user wants to edit video, cut footage, create vlogs, or build video ",
-  "dir": "skills/affaan-m__everything-claude-code/video-editing"
+  "dir": "skills/affaan-m__everything-claude-code/video-editing",
+  "zip": "zips/affaan-m__everything-claude-code/video-editing.zip"
  },
  {
   "source": "affaan-m/everything-claude-code",
@@ -77,7 +86,8 @@
   "path": "skills/videodb",
   "name": "videodb",
   "description": "Ingest, index, search, edit, and monitor video and audio with the VideoDB Python SDK — upload from files, URLs, or RTSP feeds, build spoken and scene indexes with timestamped search and playable clips, transcode and reframe, do timeline edits (subtitles, overlays, dubbing), and run real-time alerts ",
-  "dir": "skills/affaan-m__everything-claude-code/videodb"
+  "dir": "skills/affaan-m__everything-claude-code/videodb",
+  "zip": "zips/affaan-m__everything-claude-code/videodb.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -85,7 +95,8 @@
   "path": "skills/video",
   "name": "claude-video",
   "description": "AI-powered video production suite: editing, transcoding, captioning, analysis, creation, shortform pipeline, image/video generation, web screenshots, AI audio/video enhancement. Uses FFmpeg, Whisper, PySceneDetect, FLUX.2, Veo, Playwright, Real-ESRGAN, Demucs, and Remotion. GPU-accelerated with NVID",
-  "dir": "skills/agricidaniel__claude-video/claude-video"
+  "dir": "skills/agricidaniel__claude-video/claude-video",
+  "zip": "zips/agricidaniel__claude-video/claude-video.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -93,7 +104,8 @@
   "path": "skills/video-analyze",
   "name": "claude-video-analyze",
   "description": "Video analysis and inspection using FFprobe and FFmpeg. Reads metadata, codec info, resolution, bitrate, duration, HDR status, keyframe structure, audio loudness, scene boundaries, and quality metrics (VMAF, SSIM, PSNR). Use when user says \"analyze\", \"inspect\", \"info\", \"metadata\", \"quality\", \"VMAF\",",
-  "dir": "skills/agricidaniel__claude-video/claude-video-analyze"
+  "dir": "skills/agricidaniel__claude-video/claude-video-analyze",
+  "zip": "zips/agricidaniel__claude-video/claude-video-analyze.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -101,7 +113,8 @@
   "path": "skills/video-audio",
   "name": "claude-video-audio",
   "description": "Audio processing for video files using FFmpeg. Loudness normalization to streaming standards (LUFS), noise reduction, audio mixing, extraction, replacement, silence detection and removal, equalization, compression, fade effects, format conversion, and audio ducking. Use when user says \"audio\", \"norm",
-  "dir": "skills/agricidaniel__claude-video/claude-video-audio"
+  "dir": "skills/agricidaniel__claude-video/claude-video-audio",
+  "zip": "zips/agricidaniel__claude-video/claude-video-audio.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -109,7 +122,8 @@
   "path": "skills/video-caption",
   "name": "claude-video-caption",
   "description": "Speech-to-text transcription and animated subtitle generation using Whisper and FFmpeg. Creates word-by-word animated captions (karaoke-style), SRT/ASS/VTT subtitles, burns subtitles into video, extracts existing subtitles, converts between formats, and styles captions with custom fonts, colors, and",
-  "dir": "skills/agricidaniel__claude-video/claude-video-caption"
+  "dir": "skills/agricidaniel__claude-video/claude-video-caption",
+  "zip": "zips/agricidaniel__claude-video/claude-video-caption.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -117,7 +131,8 @@
   "path": "skills/video-create",
   "name": "claude-video-create",
   "description": "Programmatic video creation using Remotion (React-based). Generates title cards, data visualizations, motion graphics, branded intros/outros, animated text, and template-based videos from data. Claude writes React components, Remotion renders them headlessly to video. Use when user says \"create vide",
-  "dir": "skills/agricidaniel__claude-video/claude-video-create"
+  "dir": "skills/agricidaniel__claude-video/claude-video-create",
+  "zip": "zips/agricidaniel__claude-video/claude-video-create.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -125,7 +140,8 @@
   "path": "skills/video-download",
   "name": "claude-video-download",
   "description": "Video downloading via yt-dlp with format selection, quality control, subtitle download, audio-only extraction, and playlist support. Downloads from YouTube, Vimeo, Twitter, TikTok, and 1000+ other sites. Use when user says \"download video\", \"download from youtube\", \"yt-dlp\", \"grab video\", \"save vide",
-  "dir": "skills/agricidaniel__claude-video/claude-video-download"
+  "dir": "skills/agricidaniel__claude-video/claude-video-download",
+  "zip": "zips/agricidaniel__claude-video/claude-video-download.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -133,7 +149,8 @@
   "path": "skills/video-edit",
   "name": "claude-video-edit",
   "description": "Video editing operations using FFmpeg: trimming, cutting, splitting, concatenation, speed changes, cropping, scaling, rotation, overlays, picture-in-picture, green screen removal, video stabilization, transitions, fades, privacy blur, LUT color grading, and motion tracking text. Use when user says \"",
-  "dir": "skills/agricidaniel__claude-video/claude-video-edit"
+  "dir": "skills/agricidaniel__claude-video/claude-video-edit",
+  "zip": "zips/agricidaniel__claude-video/claude-video-edit.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -141,7 +158,8 @@
   "path": "skills/video-enhance",
   "name": "claude-video-enhance",
   "description": "AI video enhancement using Real-ESRGAN (4x upscaling, 720p to 4K, 2-6GB VRAM), Practical-RIFE (frame interpolation for smooth slow motion, 60+ FPS at 720p), CodeFormer (face restoration for old/low-quality footage, adjustable fidelity), and rembg (transparent video via background removal, VP9+alpha ",
-  "dir": "skills/agricidaniel__claude-video/claude-video-enhance"
+  "dir": "skills/agricidaniel__claude-video/claude-video-enhance",
+  "zip": "zips/agricidaniel__claude-video/claude-video-enhance.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -149,7 +167,8 @@
   "path": "skills/video-enhance-audio",
   "name": "claude-video-enhance-audio",
   "description": "AI-powered audio enhancement for video using Demucs v4 (source separation, isolate vocals/drums/bass/other, 7GB VRAM), pyannote-audio 4.0 + WhisperX (speaker diarization), DeepFilterNet3 (AI noise reduction, superior to FFmpeg), ElevenLabs/OpenAI/Bark TTS (voiceover generation), and AudioSR (phone-t",
-  "dir": "skills/agricidaniel__claude-video/claude-video-enhance-audio"
+  "dir": "skills/agricidaniel__claude-video/claude-video-enhance-audio",
+  "zip": "zips/agricidaniel__claude-video/claude-video-enhance-audio.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -157,7 +176,8 @@
   "path": "skills/video-export",
   "name": "claude-video-export",
   "description": "One-command platform-optimized video export using FFmpeg. Produces ready-to-upload files for YouTube, TikTok, Instagram Reels, Instagram Feed, LinkedIn, Web (WebM), Podcast (audio-only), and high-quality GIF. Handles resolution, codec, bitrate, aspect ratio, and container requirements per platform. ",
-  "dir": "skills/agricidaniel__claude-video/claude-video-export"
+  "dir": "skills/agricidaniel__claude-video/claude-video-export",
+  "zip": "zips/agricidaniel__claude-video/claude-video-export.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -165,7 +185,8 @@
   "path": "skills/video-generate",
   "name": "claude-video-generate",
   "description": "AI video generation from text or image prompts using Google Veo 3.1 Fast ($0.15/sec, native audio, 8s clips, up to 4K), Runway Gen-4 Turbo ($0.05/sec, silent B-roll, 10s), or local Stable Video Diffusion (free, 2-4s). Generates transition clips, B-roll footage, animated intros/outros, establishing s",
-  "dir": "skills/agricidaniel__claude-video/claude-video-generate"
+  "dir": "skills/agricidaniel__claude-video/claude-video-generate",
+  "zip": "zips/agricidaniel__claude-video/claude-video-generate.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -173,7 +194,8 @@
   "path": "skills/video-image",
   "name": "claude-video-image",
   "description": "AI image generation for video production using Gemini 3 Pro Image / Nano Banana Pro (API, up to 4K, $0.13-0.24/image), FLUX.2 klein 4B (local, sub-second, 13GB VRAM), SD 3.5 Medium (local fallback, 6GB), or OpenAI GPT Image 1 Mini API ($0.005/image, transparent PNGs). Generates thumbnails, backgroun",
-  "dir": "skills/agricidaniel__claude-video/claude-video-image"
+  "dir": "skills/agricidaniel__claude-video/claude-video-image",
+  "zip": "zips/agricidaniel__claude-video/claude-video-image.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -181,7 +203,8 @@
   "path": "skills/video-promo",
   "name": "claude-video-promo",
   "description": "Create promo videos using free stock footage (Pixabay/Pexels) as backgrounds with Remotion text overlays, transitions, effects, and audio. Contrast-aware text placement adapts to background brightness. Use when user says \"promo video\", \"stock footage video\", \"marketing video\", \"video with stock\", \"/",
-  "dir": "skills/agricidaniel__claude-video/claude-video-promo"
+  "dir": "skills/agricidaniel__claude-video/claude-video-promo",
+  "zip": "zips/agricidaniel__claude-video/claude-video-promo.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -189,7 +212,8 @@
   "path": "skills/video-screenshot",
   "name": "claude-video-screenshot",
   "description": "Web screenshot capture for video production using Playwright. Takes full-page, viewport, or element-specific screenshots at video-native dimensions (1920x1080, 1080x1920). Device emulation (100+ presets), CSS injection to hide ads/banners, authentication persistence, Ken Burns zoom/pan animation fro",
-  "dir": "skills/agricidaniel__claude-video/claude-video-screenshot"
+  "dir": "skills/agricidaniel__claude-video/claude-video-screenshot",
+  "zip": "zips/agricidaniel__claude-video/claude-video-screenshot.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -197,7 +221,8 @@
   "path": "skills/video-shorts",
   "name": "claude-video-shorts",
   "description": "Longform-to-shortform video pipeline that automatically extracts viral-ready short clips from long videos. V3 pipeline with VLM-powered visual analysis (Gemini 2.5 Flash), auto-detects screen recordings vs talking-head, uses \"Framed\" layout for screen content (padded top/bottom with centered caption",
-  "dir": "skills/agricidaniel__claude-video/claude-video-shorts"
+  "dir": "skills/agricidaniel__claude-video/claude-video-shorts",
+  "zip": "zips/agricidaniel__claude-video/claude-video-shorts.zip"
  },
  {
   "source": "agricidaniel/claude-video",
@@ -205,7 +230,8 @@
   "path": "skills/video-transcode",
   "name": "claude-video-transcode",
   "description": "Video transcoding and codec conversion using FFmpeg with GPU acceleration. Converts between H.264, H.265, AV1, VP9, ProRes, and DNxHR. Handles compression, quality optimization, two-pass encoding, container remuxing, and batch processing. Use when user says \"convert\", \"transcode\", \"compress\", \"encod",
-  "dir": "skills/agricidaniel__claude-video/claude-video-transcode"
+  "dir": "skills/agricidaniel__claude-video/claude-video-transcode",
+  "zip": "zips/agricidaniel__claude-video/claude-video-transcode.zip"
  },
  {
   "source": "agricidaniel/claude-youtube",
@@ -213,7 +239,8 @@
   "path": "skills/claude-youtube",
   "name": "youtube",
   "description": "The ultimate YouTube creator skill. Covers channel audits, video SEO, retention-engineered scripts, hook writing, thumbnail briefs, content strategy, content calendars, Shorts optimisation, analytics interpretation, monetisation planning, competitor research, cross-platform repurposing, upload metad",
-  "dir": "skills/agricidaniel__claude-youtube/youtube"
+  "dir": "skills/agricidaniel__claude-youtube/youtube",
+  "zip": "zips/agricidaniel__claude-youtube/youtube.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -221,7 +248,8 @@
   "path": "skills/byted-airesearch-videoeval",
   "name": "byted-airesearch-videoeval",
   "description": "Create and check long-running video material evaluation tasks. Use this skill when the user wants to submit videos for evaluation, check an existing video evaluation task list, or fetch the result of a previously created video evaluation task. This skill is not a general-purpose video upload skill b",
-  "dir": "skills/bytedance__agentkit-samples/byted-airesearch-videoeval"
+  "dir": "skills/bytedance__agentkit-samples/byted-airesearch-videoeval",
+  "zip": "zips/bytedance__agentkit-samples/byted-airesearch-videoeval.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -229,7 +257,8 @@
   "path": "skills/byted-ark-seedance-guide",
   "name": "byted-ark-seedance-guide",
   "description": "火山方舟 Seedance 模型使用指导技能。用户询问 Seedance/seedance2.0/doubao-seedance-2-0/doubao-seedance-2-0-fast/seedance2.0-mini等seedance系列模型的火山方舟接入、API 调用、参数、任务创建、任务查询、结果获取、计费开通、报错排查、SDK、最佳实践时优先调用本技能；当用户提供火山引擎官网文档链接（形如 https://www.volcengine.com/docs/*）并要求解读、总结、提炼、查询其中规则或基于文档回答时，也应调用本技能并通过 fetch 获取文档全文；普通提问使用 Servic",
-  "dir": "skills/bytedance__agentkit-samples/byted-ark-seedance-guide"
+  "dir": "skills/bytedance__agentkit-samples/byted-ark-seedance-guide",
+  "zip": "zips/bytedance__agentkit-samples/byted-ark-seedance-guide.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -237,7 +266,8 @@
   "path": "skills/byted-ark-seedance-pe",
   "name": "byted-ark-seedance-pe",
   "description": "针对用户提供的seedance原始视频提示词进行分析和优化，重新生成适合 Seedance 视频生成的标准提示词。当存在以下情况时使用：(1) 用户提供了原始的视频提示词，要求分析/优化；(2) 需要对不规范、无结构的提示词描述进行重构和标准化；(3) 生成适合 AI 视频生成模型的专业结构化提示词。",
-  "dir": "skills/bytedance__agentkit-samples/byted-ark-seedance-pe"
+  "dir": "skills/bytedance__agentkit-samples/byted-ark-seedance-pe",
+  "zip": "zips/bytedance__agentkit-samples/byted-ark-seedance-pe.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -245,7 +275,8 @@
   "path": "skills/byted-bp-seedance-viral-creative-rewrite-skill",
   "name": "byted-bp-seedance-viral-creative-rewrite-skill",
   "description": "Guide a user conversationally through generating a new ad video from a template video and a user-provided product image. The host agent performs video understanding, detailed analysis, and rewrite planning; BytePlus Seedance is used only for final video generation with local product images as genera",
-  "dir": "skills/bytedance__agentkit-samples/byted-bp-seedance-viral-creative-rewrite-skill"
+  "dir": "skills/bytedance__agentkit-samples/byted-bp-seedance-viral-creative-rewrite-skill",
+  "zip": "zips/bytedance__agentkit-samples/byted-bp-seedance-viral-creative-rewrite-skill.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -253,7 +284,8 @@
   "path": "skills/byted-byteplus-vod-frame-extraction",
   "name": "byted-byteplus-vod-frame-extraction",
   "description": "Upload video/audio media to BytePlus VOD (Video on Demand) storage, returning the Vid and playback references; supports local file upload (ApplyUploadInfo + TOS + CommitUploadInfo) and URL pull upload (UploadMediaByUrl); also submits frame extraction jobs on ingested media (StartExecution / Operatio",
-  "dir": "skills/bytedance__agentkit-samples/byted-byteplus-vod-frame-extraction"
+  "dir": "skills/bytedance__agentkit-samples/byted-byteplus-vod-frame-extraction",
+  "zip": "zips/bytedance__agentkit-samples/byted-byteplus-vod-frame-extraction.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -261,7 +293,8 @@
   "path": "skills/byted-byteplus-vod-precision-erasure",
   "name": "byted-byteplus-vod-precision-erasure",
   "description": "Upload video/audio media to BytePlus VOD (Video on Demand) storage, returning the Vid and playback references; supports local file upload (ApplyUploadInfo + TOS + CommitUploadInfo) and URL pull upload (UploadMediaByUrl); also submits precision erasure jobs on ingested media (StartExecution / Operati",
-  "dir": "skills/bytedance__agentkit-samples/byted-byteplus-vod-precision-erasure"
+  "dir": "skills/bytedance__agentkit-samples/byted-byteplus-vod-precision-erasure",
+  "zip": "zips/bytedance__agentkit-samples/byted-byteplus-vod-precision-erasure.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -269,7 +302,8 @@
   "path": "skills/byted-byteplus-vod-video-enhancement",
   "name": "byted-byteplus-vod-video-enhancement",
   "description": "Upload video/audio media to BytePlus VOD (Video on Demand) storage, returning the Vid and playback references; supports both local file upload (ApplyUploadInfo + TOS + CommitUploadInfo) and URL pull upload (UploadMediaByUrl); also supports AI-based comprehensive quality restoration on already-upload",
-  "dir": "skills/bytedance__agentkit-samples/byted-byteplus-vod-video-enhancement"
+  "dir": "skills/bytedance__agentkit-samples/byted-byteplus-vod-video-enhancement",
+  "zip": "zips/bytedance__agentkit-samples/byted-byteplus-vod-video-enhancement.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -277,7 +311,8 @@
   "path": "skills/byted-ind-ecom-product-video-prompt",
   "name": "byted-ind-ecom-product-video-prompt",
   "description": "使用 Seedance 2.0 \"三层骨架\" 方法论为电商商品生成高质量视频提示词。当用户想要从商品图片（单图或多图）创建视频提示词、需要专业商品展示视频脚本，或希望将静态商品照片转换为吸引人的视频内容时使用。",
-  "dir": "skills/bytedance__agentkit-samples/byted-ind-ecom-product-video-prompt"
+  "dir": "skills/bytedance__agentkit-samples/byted-ind-ecom-product-video-prompt",
+  "zip": "zips/bytedance__agentkit-samples/byted-ind-ecom-product-video-prompt.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -285,7 +320,8 @@
   "path": "skills/byted-ind-ecom-prompt-to-video",
   "name": "byted-ind-ecom-prompt-to-video",
   "description": "使用 Seedance 2.0 根据提示词与参考素材生成视频。用户要把文本/参考图/参考视频变成视频时使用。",
-  "dir": "skills/bytedance__agentkit-samples/byted-ind-ecom-prompt-to-video"
+  "dir": "skills/bytedance__agentkit-samples/byted-ind-ecom-prompt-to-video",
+  "zip": "zips/bytedance__agentkit-samples/byted-ind-ecom-prompt-to-video.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -293,7 +329,8 @@
   "path": "skills/byted-kickart-overseas-viral-replicator",
   "name": "byted-kickart-overseas-viral-replicator",
   "description": "Viral video replication tool that supports copying popular video structures, scripts, and styles to generate similar content. Use this skill when users mention \"viral replication, viral cloning, copy video, clone video, similar video\" or express the desire to create content similar to a popular vide",
-  "dir": "skills/bytedance__agentkit-samples/byted-kickart-overseas-viral-replicator"
+  "dir": "skills/bytedance__agentkit-samples/byted-kickart-overseas-viral-replicator",
+  "zip": "zips/bytedance__agentkit-samples/byted-kickart-overseas-viral-replicator.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -301,7 +338,8 @@
   "path": "skills/byted-kickart-subtitle-extractor",
   "name": "byted-kickart-subtitle-extractor",
   "description": "视频字幕提取SKILL：从视频文件自动提取、识别视频中已有的字幕并导出，支持导出为标准SRT格式字幕文件。适用于视频提取字幕、提取视频内已有的字幕、视频字幕识别、字幕导出、视频转字幕等场景。触发时机：当用户提及或表达等价意图（帮我从视频中提取字幕、提取视频里的字幕、从视频里抠字幕、视频字幕提取、导出视频自带字幕、视频字幕识别、字幕导出、视频转字幕）时，调用此SKILL执行字幕提取任务。",
-  "dir": "skills/bytedance__agentkit-samples/byted-kickart-subtitle-extractor"
+  "dir": "skills/bytedance__agentkit-samples/byted-kickart-subtitle-extractor",
+  "zip": "zips/bytedance__agentkit-samples/byted-kickart-subtitle-extractor.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -309,7 +347,8 @@
   "path": "skills/byted-kickart-video-analyzer",
   "name": "byted-kickart-video-analyzer",
   "description": "视频解析SKILL：提供视频解析、视频分析、视频反解、视频分镜提取、视频元数据提取等功能。适用于需要对本地或网络视频文件进行内容解析、分镜提取和元数据分析的场景，支持MP4、MOV等主流视频格式。当用户提及'视频解析、视频分析、视频反解、视频分镜、视频元数据提取、本地视频分析'或表达等价意图时触发",
-  "dir": "skills/bytedance__agentkit-samples/byted-kickart-video-analyzer"
+  "dir": "skills/bytedance__agentkit-samples/byted-kickart-video-analyzer",
+  "zip": "zips/bytedance__agentkit-samples/byted-kickart-video-analyzer.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -317,7 +356,8 @@
   "path": "skills/byted-kickart-video-subtitler",
   "name": "byted-kickart-video-subtitler",
   "description": "视频字幕添加SKILL：为视频文件自动添加、嵌入字幕。适用于给视频添加字幕、视频加字幕、视频打字幕、给视频生成字幕、字幕嵌入视频、视频配字幕等场景。触发时机：当用户提及或表达等价意图（帮我给视频添加字幕、给视频加字幕、视频打字幕、给视频生成字幕、添加字幕到视频、视频配字幕、字幕嵌入视频）时，调用此SKILL执行字幕添加任务。",
-  "dir": "skills/bytedance__agentkit-samples/byted-kickart-video-subtitler"
+  "dir": "skills/bytedance__agentkit-samples/byted-kickart-video-subtitler",
+  "zip": "zips/bytedance__agentkit-samples/byted-kickart-video-subtitler.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -325,7 +365,8 @@
   "path": "skills/byted-las-audio-convert",
   "name": "byted-las-audio-convert",
   "description": "Converts and transcodes audio file formats and encoding parameters using Volcengine LAS. Audio format conversion between wav, mp3, flac, m4a, ogg, aac and other audio formats. Adjusts sample rate (resample, downsample, upsample), bit rate (bitrate), channels (mono, stereo, channel mixing), audio com",
-  "dir": "skills/bytedance__agentkit-samples/byted-las-audio-convert"
+  "dir": "skills/bytedance__agentkit-samples/byted-las-audio-convert",
+  "zip": "zips/bytedance__agentkit-samples/byted-las-audio-convert.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -333,7 +374,8 @@
   "path": "skills/byted-las-long-video-understand",
   "name": "byted-las-long-video-understand",
   "description": "Performs deep AI-powered analysis and understanding of long-form videos (up to 3 hours, 10GB) using Volcengine LAS large language models. Video analysis, video comprehension, and video summarization — generates comprehensive video summaries, video recaps, chapter breakdowns, event timelines, key mom",
-  "dir": "skills/bytedance__agentkit-samples/byted-las-long-video-understand"
+  "dir": "skills/bytedance__agentkit-samples/byted-las-long-video-understand",
+  "zip": "zips/bytedance__agentkit-samples/byted-las-long-video-understand.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -341,7 +383,8 @@
   "path": "skills/byted-las-video-edit",
   "name": "byted-las-video-edit",
   "description": "智能视频剪辑：用自然语言描述要保留的片段/人物/事件，自动从长视频抽取剪辑（可用参考图做人物/物体匹配）。当用户要按描述找片段、提取高光或做智能剪辑时触发。",
-  "dir": "skills/bytedance__agentkit-samples/byted-las-video-edit"
+  "dir": "skills/bytedance__agentkit-samples/byted-las-video-edit",
+  "zip": "zips/bytedance__agentkit-samples/byted-las-video-edit.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -349,7 +392,8 @@
   "path": "skills/byted-las-video-inpaint",
   "name": "byted-las-video-inpaint",
   "description": "Removes unwanted visual elements from videos using AI-powered inpainting via Volcengine LAS. Video watermark removal, subtitle removal, logo removal, and text overlay removal — erases and cleans up watermarks, hardcoded subtitles, logos, text, and other fixed-region artifacts and obstructions from v",
-  "dir": "skills/bytedance__agentkit-samples/byted-las-video-inpaint"
+  "dir": "skills/bytedance__agentkit-samples/byted-las-video-inpaint",
+  "zip": "zips/bytedance__agentkit-samples/byted-las-video-inpaint.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -357,7 +401,8 @@
   "path": "skills/byted-las-video-resize",
   "name": "byted-las-video-resize",
   "description": "Resizes, scales, and adjusts video resolution and dimensions using GPU-accelerated NVENC encoding via Volcengine LAS. Video resizing, video scaling, video upscaling, and video downscaling — change video resolution, enlarge or shrink video dimensions, and adjust video size for different platforms and",
-  "dir": "skills/bytedance__agentkit-samples/byted-las-video-resize"
+  "dir": "skills/bytedance__agentkit-samples/byted-las-video-resize",
+  "zip": "zips/bytedance__agentkit-samples/byted-las-video-resize.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -365,7 +410,8 @@
   "path": "skills/byted-las-vlm-video",
   "name": "byted-las-vlm-video",
   "description": "视频多模态理解：对视频生成描述/摘要/标签，并支持基于视频内容问答。当用户要理解视频内容、生成描述或对视频提问时触发。",
-  "dir": "skills/bytedance__agentkit-samples/byted-las-vlm-video"
+  "dir": "skills/bytedance__agentkit-samples/byted-las-vlm-video",
+  "zip": "zips/bytedance__agentkit-samples/byted-las-vlm-video.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -373,7 +419,8 @@
   "path": "skills/byted-mediakit-videoedit",
   "name": "byted-mediakit-videoedit",
   "description": "",
-  "dir": "skills/bytedance__agentkit-samples/byted-mediakit-videoedit"
+  "dir": "skills/bytedance__agentkit-samples/byted-mediakit-videoedit",
+  "zip": "zips/bytedance__agentkit-samples/byted-mediakit-videoedit.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -381,7 +428,8 @@
   "path": "skills/byted-mediakit-voiceover-editing",
   "name": "byted-mediakit-voiceover-editing",
   "description": "Volcano Engine AI MediaKit talking-head video editing Skill: a one-stop workflow from environment setup through media management, audio processing, talking-head cuts, video export, review UI, and iterative refinement. You MUST invoke this Skill when the user mentions talking-head editing, cutting ta",
-  "dir": "skills/bytedance__agentkit-samples/byted-mediakit-voiceover-editing"
+  "dir": "skills/bytedance__agentkit-samples/byted-mediakit-voiceover-editing",
+  "zip": "zips/bytedance__agentkit-samples/byted-mediakit-voiceover-editing.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -389,7 +437,8 @@
   "path": "skills/byted-seedance-video-generate",
   "name": "byted-seedance-video-generate",
   "description": "Generate videos using Seedance models. Invoke when user wants to create videos from text prompts, images, or reference materials.",
-  "dir": "skills/bytedance__agentkit-samples/byted-seedance-video-generate"
+  "dir": "skills/bytedance__agentkit-samples/byted-seedance-video-generate",
+  "zip": "zips/bytedance__agentkit-samples/byted-seedance-video-generate.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -397,7 +446,8 @@
   "path": "skills/byted-sol-seedance-prompt",
   "name": "byted-sol-seedance-prompt",
   "description": "This skill should be used when the user asks to \"generate video prompts\", \"create Seedance prompts\", \"write video descriptions\", mentions \"Seedance\", \"seedance\", \"火山引擎\", \"火山引擎平台\", \"视频提示词\", \"视频生成\", \"AI视频\", \"短剧\", \"广告视频\", \"视频延长\", or discusses video prompt engineering, AI video generation, or Seedance 2",
-  "dir": "skills/bytedance__agentkit-samples/byted-sol-seedance-prompt"
+  "dir": "skills/bytedance__agentkit-samples/byted-sol-seedance-prompt",
+  "zip": "zips/bytedance__agentkit-samples/byted-sol-seedance-prompt.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -405,7 +455,8 @@
   "path": "skills/byted-tos-video-process",
   "name": "byted-tos-video-process",
   "description": "Inspects videos, extracts frames, and concatenates video clips stored in Volcengine TOS: read video metadata, capture single snapshots, batch-capture multiple frames by explicit timestamps or interval, concatenate multiple video clips, and save results locally or back to TOS. Use this skill when the",
-  "dir": "skills/bytedance__agentkit-samples/byted-tos-video-process"
+  "dir": "skills/bytedance__agentkit-samples/byted-tos-video-process",
+  "zip": "zips/bytedance__agentkit-samples/byted-tos-video-process.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -413,7 +464,8 @@
   "path": "skills/byted-util-video-editor",
   "name": "byted-util-video-editor",
   "description": "视频编辑器，在需要视频后期制作、多个视频文件合成、视频添加音频轨道、合并多个音频文件、视频生成并烧录字幕场景时，使用该技能。",
-  "dir": "skills/bytedance__agentkit-samples/byted-util-video-editor"
+  "dir": "skills/bytedance__agentkit-samples/byted-util-video-editor",
+  "zip": "zips/bytedance__agentkit-samples/byted-util-video-editor.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -421,7 +473,8 @@
   "path": "skills/byted-vod-process-tools",
   "name": "byted-vod-process-tools",
   "description": "Volcengine VOD audio and video processing tools skill. Use when users need VOD-based media processing or editing: upload local/URL media, stitch videos, trim clips, flip frames, change playback speed, create image-to-video, compose audio/video, extract audio, mix audio, separate vocals/accompaniment",
-  "dir": "skills/bytedance__agentkit-samples/byted-vod-process-tools"
+  "dir": "skills/bytedance__agentkit-samples/byted-vod-process-tools",
+  "zip": "zips/bytedance__agentkit-samples/byted-vod-process-tools.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -429,7 +482,8 @@
   "path": "skills/agentkit/image-video-gen",
   "name": "image-video-gen",
   "description": "根据文字描述生成视频，一个生成图片和视频的工作流技能。依赖 skills: byted-web-search, image-generate, video-generate。注意：此 workflow 没有执行脚本，只是一个描述性的文档。",
-  "dir": "skills/bytedance__agentkit-samples/image-video-gen"
+  "dir": "skills/bytedance__agentkit-samples/image-video-gen",
+  "zip": "zips/bytedance__agentkit-samples/image-video-gen.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -437,7 +491,8 @@
   "path": "skills/v1/video-generate",
   "name": "video-generate",
   "description": "使用 video_generate.py 脚本生成视频，需要提供文件名和 prompt，可选提供首帧图片（URL或本地路径）。",
-  "dir": "skills/bytedance__agentkit-samples/video-generate"
+  "dir": "skills/bytedance__agentkit-samples/video-generate",
+  "zip": "zips/bytedance__agentkit-samples/video-generate.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -445,7 +500,8 @@
   "path": "python/02-use-cases/video_breakdown_agent/.skills/hook-analyzer-skill",
   "name": "hook-analyzer",
   "description": "视频前三秒钩子分析技能。从分镜拆解结果中提取前三秒分镜数据，为钩子吸引力评估提供结构化上下文。运行脚本 `python scripts/analyze_hook_segments.py \"<breakdown_json_file>\"` 或通过 stdin 传入 JSON。输出包含前三秒分镜数量、总时长和每个分镜的详细信息（含关键帧 URL）。",
-  "dir": "skills/bytedance__agentkit-samples/hook-analyzer"
+  "dir": "skills/bytedance__agentkit-samples/hook-analyzer",
+  "zip": "zips/bytedance__agentkit-samples/hook-analyzer.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -453,7 +509,8 @@
   "path": "python/02-use-cases/video_breakdown_agent/.skills/report-generator-skill",
   "name": "report-generator",
   "description": "视频分析报告生成技能。整合分镜拆解数据和钩子分析结果，生成 Markdown 格式的专业视频分析报告。运行脚本 `python scripts/generate_report.py <breakdown_json> [hook_analysis_json]`，输出完整的 Markdown 报告，包含基本信息、前三秒钩子分析、分镜概览、BGM分析、场景分析等章节。",
-  "dir": "skills/bytedance__agentkit-samples/report-generator"
+  "dir": "skills/bytedance__agentkit-samples/report-generator",
+  "zip": "zips/bytedance__agentkit-samples/report-generator.zip"
  },
  {
   "source": "bytedance/agentkit-samples",
@@ -461,7 +518,8 @@
   "path": "python/02-use-cases/video_breakdown_agent/.skills/video-breakdown-skill",
   "name": "video-breakdown",
   "description": "视频分镜拆解技能（自包含，无需外部后端）。使用 FFmpeg 预处理视频并生成分镜数据。(1) 视频 URL 直接处理 `python scripts/process_video.py \"<video_url>\"`；(2) 本地文件先上传 `python scripts/video_upload.py \"<file_path>\"` 获取 URL 后再处理。需要本机安装 FFmpeg。",
-  "dir": "skills/bytedance__agentkit-samples/video-breakdown"
+  "dir": "skills/bytedance__agentkit-samples/video-breakdown",
+  "zip": "zips/bytedance__agentkit-samples/video-breakdown.zip"
  },
  {
   "source": "ckorhonen/claude-skills",
@@ -469,7 +527,8 @@
   "path": "skills/video-editor",
   "name": "video-editor",
   "description": "Expert guidance for video editing with ffmpeg, encoding best practices, and quality optimization. Use when working with video files, transcoding, remuxing, encoding settings, color spaces, or troubleshooting video quality issues.",
-  "dir": "skills/ckorhonen__claude-skills/video-editor"
+  "dir": "skills/ckorhonen__claude-skills/video-editor",
+  "zip": "zips/ckorhonen__claude-skills/video-editor.zip"
  },
  {
   "source": "coreyhaines31/marketingskills",
@@ -477,7 +536,8 @@
   "path": "skills/ad-creative",
   "name": "ad-creative",
   "description": "When the user wants to write or judge ad creative: headlines, primary text, hooks, and variations for Google, Meta, LinkedIn, and TikTok, fresh angles when creative fatigues, UGC and video formats, and which ads to test or kill. Test hypotheses name the metric, comparison, and expected direction. No",
-  "dir": "skills/coreyhaines31__marketingskills/ad-creative"
+  "dir": "skills/coreyhaines31__marketingskills/ad-creative",
+  "zip": "zips/coreyhaines31__marketingskills/ad-creative.zip"
  },
  {
   "source": "coreyhaines31/marketingskills",
@@ -485,7 +545,8 @@
   "path": "skills/social",
   "name": "social",
   "description": "When the user wants organic social content for LinkedIn, X, Instagram, TikTok, or Facebook, or asks what to post, how often, or from which account: posts, threads, carousels, short-form video scripts, repurposing, calendars, build-in-public posts from commits, growing a following, listening. No AI t",
-  "dir": "skills/coreyhaines31__marketingskills/social"
+  "dir": "skills/coreyhaines31__marketingskills/social",
+  "zip": "zips/coreyhaines31__marketingskills/social.zip"
  },
  {
   "source": "coreyhaines31/marketingskills",
@@ -493,7 +554,8 @@
   "path": "skills/video",
   "name": "video",
   "description": "When the user wants to create video with AI tools or code, or asks how to make videos quickly or repeatably: product demos, explainers, AI avatars, generation with Veo, Sora, Runway, Kling, or HeyGen, programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative.",
-  "dir": "skills/coreyhaines31__marketingskills/video"
+  "dir": "skills/coreyhaines31__marketingskills/video",
+  "zip": "zips/coreyhaines31__marketingskills/video.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -501,7 +563,8 @@
   "path": "skills/video-toolkit",
   "name": "video_toolkit",
   "description": "Make short explainer videos from a brief with claude-code-video-toolkit — submit a scene spec, poll a job, get a QC-checked MP4. Also covers the individual tools (AI voiceover, images, clips, music, talking heads) for custom work.",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/video_toolkit"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/video_toolkit",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/video_toolkit.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -509,7 +572,8 @@
   "path": ".claude/skills/acestep",
   "name": "acestep",
   "description": "AI music generation with ACE-Step 1.5 — background music, vocal tracks, covers, stem extraction, audio repainting, and continuation for video production. Use when generating music, soundtracks, jingles, or working with audio stems. Triggers include background music, soundtrack, jingle, music generat",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/acestep"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/acestep",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/acestep.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -517,7 +581,8 @@
   "path": ".claude/skills/elevenlabs",
   "name": "elevenlabs",
   "description": "Generate AI voiceovers, sound effects, and music using ElevenLabs APIs. Use when creating audio content for videos, podcasts, or games. Triggers include generating voiceovers, narration, dialogue, sound effects from descriptions, background music, soundtrack generation, voice cloning, or any audio s",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/elevenlabs"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/elevenlabs",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/elevenlabs.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -525,7 +590,8 @@
   "path": ".claude/skills/ffmpeg",
   "name": "ffmpeg",
   "description": "Video and audio processing with FFmpeg. Use for format conversion, resizing, compression, audio extraction, and preparing assets for Remotion. Triggers include converting GIF to MP4, resizing video, extracting audio, compressing files, or any media transformation task.",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/ffmpeg"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/ffmpeg",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/ffmpeg.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -533,7 +599,8 @@
   "path": ".claude/skills/ideogram4",
   "name": "ideogram4",
   "description": "Prompting patterns for Ideogram 4 text-to-image — best-in-class in-image text rendering and exact color/layout control via structured JSON captions. Use when generating images that need legible on-image text (title cards, thumbnails, logos, signage, CTAs), precise brand colors, or controlled spatial",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/ideogram4"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/ideogram4",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/ideogram4.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -541,7 +608,8 @@
   "path": ".claude/skills/ltx2",
   "name": "ltx2",
   "description": "AI video generation with LTX-2.3 22B — text-to-video, image-to-video clips for video production. Use when generating video clips, animating images, creating b-roll, animated backgrounds, or motion content. Triggers include video generation, animate image, b-roll, motion, video clip, text-to-video, i",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/ltx2"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/ltx2",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/ltx2.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -549,7 +617,8 @@
   "path": ".claude/skills/moviepy",
   "name": "moviepy",
   "description": "Python video composition with moviepy 2.x — overlaying deterministic text on AI-generated video (LTX-2, SadTalker), compositing clips, single-file build.py video projects. Use when adding labels/captions/lower-thirds to LTX-2 or SadTalker outputs, building short ad-style spots in pure Python without",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/moviepy"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/moviepy",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/moviepy.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -557,7 +626,8 @@
   "path": ".claude/skills/parody-short",
   "name": "parody-short",
   "description": "Comedy shorts about a group's own life - a team's launch, quarter end, office move or leaving do; a club's season; a class's year; a family's Christmas - or about a shared topic everyone recognises (video calls, the return to the office), told in a borrowed genre (80s action intro, creature feature,",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/parody-short"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/parody-short",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/parody-short.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -565,7 +635,8 @@
   "path": ".claude/skills/playwright-recording",
   "name": "playwright-recording",
   "description": "Record browser interactions as video using Playwright. Use for capturing demo videos, app walkthroughs, and UI flows for Remotion videos. Triggers include recording a demo, capturing browser video, screen recording a website, or creating walkthrough footage.",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/playwright-recording"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/playwright-recording",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/playwright-recording.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -573,7 +644,8 @@
   "path": ".claude/skills/qwen-edit",
   "name": "qwen-edit",
   "description": "AI image editing prompting patterns for Qwen-Image (Qwen-Image-Edit-2511 by default, Qwen-Image-2.1 as a non-commercial Modal opt-in). Use when editing photos while preserving identity, reframing cropped images, changing clothing or accessories, adjusting poses, applying style transfers, or characte",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/qwen-edit"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/qwen-edit",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/qwen-edit.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -581,7 +653,8 @@
   "path": ".claude/skills/remotion",
   "name": "remotion",
   "description": "Toolkit-specific Remotion patterns — custom transitions, shared components, and project conventions. For core Remotion framework knowledge (hooks, animations, rendering, etc.), see the `remotion-official` skill.",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/remotion"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/remotion",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/remotion.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -589,7 +662,8 @@
   "path": ".claude/skills/remotion-official",
   "name": "remotion-best-practices",
   "description": "Router for all Remotion skills",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/remotion-best-practices"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/remotion-best-practices",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/remotion-best-practices.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -597,7 +671,8 @@
   "path": ".claude/skills/runpod",
   "name": "runpod",
   "description": "Cloud GPU processing via RunPod serverless. Use when setting up RunPod endpoints, deploying Docker images, managing GPU resources, troubleshooting endpoint issues, or understanding costs. Covers all 5 toolkit images (qwen-edit, realesrgan, propainter, sadtalker, qwen3-tts).",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/runpod"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/runpod",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/runpod.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -605,7 +680,8 @@
   "path": ".claude/skills/synthetic-ui-demo",
   "name": "synthetic-ui-demo",
   "description": "Product demo and release-notes videos with no screen recording. Rebuild the app's screens as static React from its source code, then drive them in Remotion with a scripted cursor and camera (lib/components Stage + Cursor). Use when making a product walkthrough, feature demo, release-notes or changel",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/synthetic-ui-demo"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/synthetic-ui-demo",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/synthetic-ui-demo.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -613,7 +689,8 @@
   "path": ".claude/skills/video-design",
   "name": "video-design",
   "description": "Visual design for videos - colour by act, type scale, chart and layout rules for 16:9 and 9:16 scenes, a design.md handoff that any design skill can fill, and a contact-sheet critique of the render. Use when designing or refining how a video looks (title cards, data scenes, slides, a whole video's p",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/video-design"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/video-design",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/video-design.zip"
  },
  {
   "source": "digitalsamba/claude-code-video-toolkit",
@@ -621,7 +698,8 @@
   "path": ".claude/skills/youtube-stats",
   "name": "youtube-stats",
   "description": "How published videos are doing on YouTube, and what to learn from it. Views, likes, comments and subscribers per video, plus watch time, retention and traffic sources (Shorts feed, search, external) with the Analytics scope, saved as snapshots so trends show; GitHub traffic beside it to see whether ",
-  "dir": "skills/digitalsamba__claude-code-video-toolkit/youtube-stats"
+  "dir": "skills/digitalsamba__claude-code-video-toolkit/youtube-stats",
+  "zip": "zips/digitalsamba__claude-code-video-toolkit/youtube-stats.zip"
  },
  {
   "source": "eirichmond/claude-yt-assist",
@@ -629,7 +707,8 @@
   "path": "skills/bullet-point-teleprompter-architect",
   "name": "bullet-point-teleprompter-architect",
   "description": "Turn a word-for-word script into a scannable Talking Point sheet for natural, extemporaneous delivery on camera. Use when converting a finished script into teleprompter beats or a prompt sheet.",
-  "dir": "skills/eirichmond__claude-yt-assist/bullet-point-teleprompter-architect"
+  "dir": "skills/eirichmond__claude-yt-assist/bullet-point-teleprompter-architect",
+  "zip": "zips/eirichmond__claude-yt-assist/bullet-point-teleprompter-architect.zip"
  },
  {
   "source": "eirichmond/claude-yt-assist",
@@ -637,7 +716,8 @@
   "path": "skills/feynman-technique",
   "name": "feynman-technique",
   "description": "Turn a rough idea or brain dump into a clear, plain-English script using the Feynman Technique. Use when explaining a concept simply, stripping jargon, and building a teachable narrative from a topic.",
-  "dir": "skills/eirichmond__claude-yt-assist/feynman-technique"
+  "dir": "skills/eirichmond__claude-yt-assist/feynman-technique",
+  "zip": "zips/eirichmond__claude-yt-assist/feynman-technique.zip"
  },
  {
   "source": "eirichmond/claude-yt-assist",
@@ -645,7 +725,8 @@
   "path": "skills/proof-reader",
   "name": "proof-reader",
   "description": "Light-touch UK English proofreading pass for scripts. Use when fixing spelling, grammar and punctuation without changing the author's voice, structure or rhythm. British English, mechanical corrections only.",
-  "dir": "skills/eirichmond__claude-yt-assist/proof-reader"
+  "dir": "skills/eirichmond__claude-yt-assist/proof-reader",
+  "zip": "zips/eirichmond__claude-yt-assist/proof-reader.zip"
  },
  {
   "source": "eirichmond/claude-yt-assist",
@@ -653,7 +734,8 @@
   "path": "skills/story-driven-youtube-seo-writer",
   "name": "story-driven-youtube-seo-writer",
   "description": "Writer skilled in creating engaging, audience-focused YouTube content by blending strong storytelling with SEO optimization.",
-  "dir": "skills/eirichmond__claude-yt-assist/story-driven-youtube-seo-writer"
+  "dir": "skills/eirichmond__claude-yt-assist/story-driven-youtube-seo-writer",
+  "zip": "zips/eirichmond__claude-yt-assist/story-driven-youtube-seo-writer.zip"
  },
  {
   "source": "eirichmond/claude-yt-assist",
@@ -661,7 +743,8 @@
   "path": "skills/video-editor",
   "name": "video-editor",
   "description": "Build a paper edit from a script — match spoken lines to timecodes and call b-roll, motion graphics and transitions. Use when planning post-production or turning a finished script into an editor's blueprint.",
-  "dir": "skills/eirichmond__claude-yt-assist/video-editor"
+  "dir": "skills/eirichmond__claude-yt-assist/video-editor",
+  "zip": "zips/eirichmond__claude-yt-assist/video-editor.zip"
  },
  {
   "source": "erichowens/some_claude_skills",
@@ -669,7 +752,8 @@
   "path": ".claude/skills/ai-video-production-master",
   "name": "ai-video-production-master",
   "description": "Expert in script-to-video production pipelines for Apple Silicon Macs. Specializes in hybrid local/cloud workflows, LoRA training for character consistency, motion graphics generation, and",
-  "dir": "skills/erichowens__some_claude_skills/ai-video-production-master"
+  "dir": "skills/erichowens__some_claude_skills/ai-video-production-master",
+  "zip": "zips/erichowens__some_claude_skills/ai-video-production-master.zip"
  },
  {
   "source": "erichowens/some_claude_skills",
@@ -677,7 +761,8 @@
   "path": ".claude/skills/video-processing-editing",
   "name": "video-processing-editing",
   "description": "FFmpeg automation for cutting, trimming, concatenating videos. Audio mixing, timeline editing, transitions, effects. Export optimization for YouTube, social media. Subtitle handling, color",
-  "dir": "skills/erichowens__some_claude_skills/video-processing-editing"
+  "dir": "skills/erichowens__some_claude_skills/video-processing-editing",
+  "zip": "zips/erichowens__some_claude_skills/video-processing-editing.zip"
  },
  {
   "source": "erichowens/some_claude_skills",
@@ -685,7 +770,8 @@
   "path": ".claude/skills/wedding-immortalist",
   "name": "wedding-immortalist",
   "description": "Transform thousands of wedding photos and hours of footage into an immersive 3D Gaussian Splatting experience with theatre mode replay, face-clustered guest roster, and AI-curated best photos",
-  "dir": "skills/erichowens__some_claude_skills/wedding-immortalist"
+  "dir": "skills/erichowens__some_claude_skills/wedding-immortalist",
+  "zip": "zips/erichowens__some_claude_skills/wedding-immortalist.zip"
  },
  {
   "source": "gregpr07/video-use",
@@ -693,7 +779,8 @@
   "path": ".",
   "name": "video-use",
   "description": "Edit any video by conversation. Transcribe, cut, color grade, generate overlay animations, burn subtitles — for talking heads, montages, tutorials, travel, interviews. No presets, no menus. Ask questions, confirm the plan, execute, iterate, persist. Production-correctness rules are hard; everything ",
-  "dir": "skills/gregpr07__video-use/video-use"
+  "dir": "skills/gregpr07__video-use/video-use",
+  "zip": "zips/gregpr07__video-use/video-use.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -701,7 +788,8 @@
   "path": "skills/figma",
   "name": "figma",
   "description": "Bring Figma into a HyperFrames video - rendered assets, brand tokens, components, storyboard frames as reconstructed motion (frames read as states, not slides), shaders and connector-assisted motion. Use when the person pastes a figma.com link or asks to use a Figma design, frame, logo or brand.",
-  "dir": "skills/heygen-com__hyperframes/figma"
+  "dir": "skills/heygen-com__hyperframes/figma",
+  "zip": "zips/heygen-com__hyperframes/figma.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -709,7 +797,8 @@
   "path": "skills/hyperframes",
   "name": "hyperframes",
   "description": "Read first to make, edit, animate or render any video with HyperFrames (HTML rendered to video), including launch films, explainers, music videos, charts, maps, vertical clips, title cards, captions and overlays. Holds the render contract, the work loop and what each kind of video needs.",
-  "dir": "skills/heygen-com__hyperframes/hyperframes"
+  "dir": "skills/heygen-com__hyperframes/hyperframes",
+  "zip": "zips/heygen-com__hyperframes/hyperframes.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -717,7 +806,8 @@
   "path": "skills/hyperframes-cli",
   "name": "hyperframes-cli",
   "description": "The HyperFrames CLI by job - scaffold, check, look at frames, edit the timeline, preview, render locally or in the cloud, publish, project history - plus reading its JSON and recovering from build or render failures.",
-  "dir": "skills/heygen-com__hyperframes/hyperframes-cli"
+  "dir": "skills/heygen-com__hyperframes/hyperframes-cli",
+  "zip": "zips/heygen-com__hyperframes/hyperframes-cli.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -725,7 +815,8 @@
   "path": "skills/hyperframes-registry",
   "name": "hyperframes-registry",
   "description": "About 450 ready-made HyperFrames blocks and components installed as editable source - transitions, overlays, titles, kinetic type, captions, charts, map overlays, 3D, camera moves. Use it before hand-building any named visual (CRT scanlines, glitch, film grain, a chart); also for hyperframes add and",
-  "dir": "skills/heygen-com__hyperframes/hyperframes-registry"
+  "dir": "skills/heygen-com__hyperframes/hyperframes-registry",
+  "zip": "zips/heygen-com__hyperframes/hyperframes-registry.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -733,7 +824,8 @@
   "path": "skills/media-use",
   "name": "media-use",
   "description": "Get or make any media for a HyperFrames video - music, sound effects, images, icons, logos, voiceover, avatar and generated video, transcripts, cutouts, colour grades and looks - with HeyGen or free local tools, and mix placed audio. Also for footage that looks dark, flat or dull, or should be styli",
-  "dir": "skills/heygen-com__hyperframes/media-use"
+  "dir": "skills/heygen-com__hyperframes/media-use",
+  "zip": "zips/heygen-com__hyperframes/media-use.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -741,7 +833,8 @@
   "path": "skills/remotion-to-hyperframes",
   "name": "remotion-to-hyperframes",
   "description": "Bring existing video code or footage into HyperFrames and verify it frame by frame against the original - Remotion first, also Motion Canvas, Lottie, Three.js, p5.js, canvas or plain HTML/CSS animation, or renders from Manim, After Effects or Blender. Use to port, convert, migrate or reuse work made",
-  "dir": "skills/heygen-com__hyperframes/remotion-to-hyperframes"
+  "dir": "skills/heygen-com__hyperframes/remotion-to-hyperframes",
+  "zip": "zips/heygen-com__hyperframes/remotion-to-hyperframes.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -749,7 +842,8 @@
   "path": "skills/reverse-any-video",
   "name": "reverse-any-video",
   "description": "Rebuild any video file as an editable HyperFrames project - motion graphics, talking heads, live action or AI-generated footage - checked against the original frame by frame. Use to reverse, recreate, remake, replicate or copy a video, or 「复刻这个视频」「照着这个视频做一个」.",
-  "dir": "skills/heygen-com__hyperframes/reverse-any-video"
+  "dir": "skills/heygen-com__hyperframes/reverse-any-video",
+  "zip": "zips/heygen-com__hyperframes/reverse-any-video.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -757,7 +851,8 @@
   "path": "skills/slideshow",
   "name": "slideshow",
   "description": "Build a HyperFrames slideshow to present live - slides, fragment reveals, branching hotspots and presenter mode with speaker notes, served by `hyperframes present` - or turn an existing page into one. Use when the person wants a deck or presentation rather than a rendered video.",
-  "dir": "skills/heygen-com__hyperframes/slideshow"
+  "dir": "skills/heygen-com__hyperframes/slideshow",
+  "zip": "zips/heygen-com__hyperframes/slideshow.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -765,7 +860,8 @@
   "path": "skills/style-sampling",
   "name": "style-sampling",
   "description": "Make a new episode in a proven video style - Collage Explainer, Finance Explainer, Animated Science Explainer, 3D Brand Explainer, 3D True Crime - on the person's topic. Use for \"an episode of\", \"in the style of\", \"sample this style\", 「用这个风格做一集」. One video to copy is reverse-any-video.",
-  "dir": "skills/heygen-com__hyperframes/style-sampling"
+  "dir": "skills/heygen-com__hyperframes/style-sampling",
+  "zip": "zips/heygen-com__hyperframes/style-sampling.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -773,7 +869,8 @@
   "path": ".agents/skills/captions-overlay",
   "name": "captions-overlay",
   "description": "Overlay doctrine for captions in HyperFrames videos — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, wh",
-  "dir": "skills/heygen-com__hyperframes/captions-overlay"
+  "dir": "skills/heygen-com__hyperframes/captions-overlay",
+  "zip": "zips/heygen-com__hyperframes/captions-overlay.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -781,7 +878,8 @@
   "path": ".agents/skills/changelog-video",
   "name": "changelog-video",
   "description": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey captions). Use when the user provides a changelog/digest markdown and wants the weekly video, or says \"changelog video\". Self-contained — fon",
-  "dir": "skills/heygen-com__hyperframes/changelog-video"
+  "dir": "skills/heygen-com__hyperframes/changelog-video",
+  "zip": "zips/heygen-com__hyperframes/changelog-video.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -789,7 +887,8 @@
   "path": ".agents/skills/cut-the-curve",
   "name": "cut-the-curve",
   "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase",
-  "dir": "skills/heygen-com__hyperframes/cut-the-curve"
+  "dir": "skills/heygen-com__hyperframes/cut-the-curve",
+  "zip": "zips/heygen-com__hyperframes/cut-the-curve.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -797,7 +896,8 @@
   "path": ".agents/skills/motion-doctrine",
   "name": "motion-doctrine",
   "description": "GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law that makes a multi-scene video feel like ONE continuous camera move instead of a stack of independently-animated slides. Covers the vector law (how you exit determines how you enter, incl. the Z scale",
-  "dir": "skills/heygen-com__hyperframes/motion-doctrine"
+  "dir": "skills/heygen-com__hyperframes/motion-doctrine",
+  "zip": "zips/heygen-com__hyperframes/motion-doctrine.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -805,7 +905,8 @@
   "path": ".agents/skills/oversized-cursor",
   "name": "oversized-cursor",
   "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yi",
-  "dir": "skills/heygen-com__hyperframes/oversized-cursor"
+  "dir": "skills/heygen-com__hyperframes/oversized-cursor",
+  "zip": "zips/heygen-com__hyperframes/oversized-cursor.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -813,7 +914,8 @@
   "path": ".agents/skills/seam-craft",
   "name": "seam-craft",
   "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark fil",
-  "dir": "skills/heygen-com__hyperframes/seam-craft"
+  "dir": "skills/heygen-com__hyperframes/seam-craft",
+  "zip": "zips/heygen-com__hyperframes/seam-craft.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -821,7 +923,8 @@
   "path": "registry/blocks/canopy-part-title",
   "name": "canopy-part-title",
   "description": "Leaves sweep through the frame and part to reveal the headline. HyperFrames block, 1920×1080, 12s, 11 variables.",
-  "dir": "skills/heygen-com__hyperframes/canopy-part-title"
+  "dir": "skills/heygen-com__hyperframes/canopy-part-title",
+  "zip": "zips/heygen-com__hyperframes/canopy-part-title.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -829,7 +932,8 @@
   "path": "registry/blocks/code-slice-hero",
   "name": "code-slice-hero",
   "description": "A tiled headline surface flips cell by cell under a sweeping depth field to reveal the rear headline. HyperFrames block, 1920×1080, 8s, 18 variables.",
-  "dir": "skills/heygen-com__hyperframes/code-slice-hero"
+  "dir": "skills/heygen-com__hyperframes/code-slice-hero",
+  "zip": "zips/heygen-com__hyperframes/code-slice-hero.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -837,7 +941,8 @@
   "path": "registry/blocks/cuboid-carousel",
   "name": "cuboid-carousel",
   "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables.",
-  "dir": "skills/heygen-com__hyperframes/cuboid-carousel"
+  "dir": "skills/heygen-com__hyperframes/cuboid-carousel",
+  "zip": "zips/heygen-com__hyperframes/cuboid-carousel.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -845,7 +950,8 @@
   "path": "registry/blocks/frost-sequence-camera-orbit",
   "name": "frost-sequence-camera-orbit",
   "description": "An orbiting camera follows an ice logo as it breaks apart, reforms into two text moments, and fades. HyperFrames block, 1920×1080, 22.5s, 216 variables.",
-  "dir": "skills/heygen-com__hyperframes/frost-sequence-camera-orbit"
+  "dir": "skills/heygen-com__hyperframes/frost-sequence-camera-orbit",
+  "zip": "zips/heygen-com__hyperframes/frost-sequence-camera-orbit.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -853,7 +959,8 @@
   "path": "registry/blocks/glass-shard-title",
   "name": "glass-shard-title",
   "description": "Glass shards fly in through fog and tile themselves into the headline. HyperFrames block, 1920×1080, 12.16s, 19 variables.",
-  "dir": "skills/heygen-com__hyperframes/glass-shard-title"
+  "dir": "skills/heygen-com__hyperframes/glass-shard-title",
+  "zip": "zips/heygen-com__hyperframes/glass-shard-title.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -861,7 +968,8 @@
   "path": "registry/blocks/orbit-card",
   "name": "orbit-card",
   "description": "A single feature card orbits a dot sphere on approved Blender camera motion. HyperFrames block, 1920×1080, 10s, 4 variables.",
-  "dir": "skills/heygen-com__hyperframes/orbit-card"
+  "dir": "skills/heygen-com__hyperframes/orbit-card",
+  "zip": "zips/heygen-com__hyperframes/orbit-card.zip"
  },
  {
   "source": "heygen-com/hyperframes",
@@ -869,7 +977,8 @@
   "path": "registry/blocks/wireframe-portal-title",
   "name": "wireframe-portal-title",
   "description": "A wireframe portal bursts open, the title comes through, then its letters swap into a second phrase. HyperFrames block, 1920×1080, 8s, 9 variables.",
-  "dir": "skills/heygen-com__hyperframes/wireframe-portal-title"
+  "dir": "skills/heygen-com__hyperframes/wireframe-portal-title",
+  "zip": "zips/heygen-com__hyperframes/wireframe-portal-title.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -877,7 +986,8 @@
   "path": "higgsfield-brandkit",
   "name": "higgsfield-brandkit",
   "description": "Create and extend complete visual brand systems through the Higgsfield CLI and bundled deterministic local tooling: palettes, SVG logo marks, typography, mockups, social graphics, packaging, signage, merchandise, posters, presentation decks, and editable PPTX/PDF brandbooks. Preserves official suppl",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-brandkit"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-brandkit",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-brandkit.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -885,7 +995,8 @@
   "path": "higgsfield-faceless-video",
   "name": "higgsfield-faceless-video",
   "description": "Create a finished faceless explainer, documentary, illustrated story or children's music video, or edit a previously created faceless video. Use when: \"make a faceless video\", \"create a narrated explainer\", \"make a children's song video\", \"edit this faceless video\". NOT for: a single silent clip, ad",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-faceless-video"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-faceless-video",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-faceless-video.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -893,7 +1004,8 @@
   "path": "higgsfield-generate",
   "name": "higgsfield-generate",
   "description": "Generate images/videos/3D assets/audio via Higgsfield AI. Defaults: GPT Image 2.6 for images, animated GIFs and SVG, Seedance 2.5 for video, Nano Banana 2 for cartoon characters, Marketing Studio for ads, Seed Audio 1.0 for audio. Use when: \"generate an image\", \"make a video\", \"animate this photo\", ",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-generate"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-generate",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-generate.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -901,7 +1013,8 @@
   "path": "higgsfield-marketplace-cards",
   "name": "higgsfield-marketplace-cards",
   "description": "Generate marketplace product image cards through Higgsfield: compliant main image, secondary product images, and A+ style content modules. Use when the user asks for marketplace listing images, product detail cards, secondary product images, product infographics, lifestyle listing shots, A+ style co",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-marketplace-cards"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-marketplace-cards",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-marketplace-cards.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -909,7 +1022,8 @@
   "path": "higgsfield-product-photoshoot",
   "name": "higgsfield-product-photoshoot",
   "description": "Generate brand-quality product images through Higgsfield product-photoshoot prompt enhancement on GPT Image 2 / gpt_image_2. Entry point for professional brand/product visuals. Use when: \"product photo\", \"studio shot\", \"lifestyle image\", \"Pinterest pin\", \"hero/banner\", \"carousel\", \"ad creative\", \"Me",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-product-photoshoot"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-product-photoshoot",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-product-photoshoot.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -917,7 +1031,8 @@
   "path": "higgsfield-soul-id",
   "name": "higgsfield-soul-id",
   "description": "Train a Soul Character — a personalized model on a person's face that Higgsfield uses for identity-faithful image and video generation. Use when: \"create my Soul\", \"train my face\", \"make my digital twin\", \"build me an avatar\", \"learn my appearance\", \"create a character of me\", \"set up identity for v",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-soul-id"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-soul-id",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-soul-id.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -925,7 +1040,8 @@
   "path": "higgsfield-video-explainer",
   "name": "higgsfield-video-explainer",
   "description": "Compatibility entry for the former video explainer skill. Use when: the user explicitly invokes higgsfield-video-explainer or continues its existing workflow. NOT for: new generic explainer requests, ads, single clips, or unrelated video edits.",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-video-explainer"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-video-explainer",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-video-explainer.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -933,7 +1049,8 @@
   "path": "higgsfield-websites",
   "name": "higgsfield-websites",
   "description": "Build, edit, and deploy full-stack websites, apps and games via the Higgsfield CLI (`higgsfield website …`). Each is a React 19 + TanStack Start SSR app in one Cloudflare Worker (D1/R2/KV/DO/Containers). THREE product types, picked via `--type` on create: `website` (standalone, no Higgsfield integra",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-websites"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-websites",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-websites.zip"
  },
  {
   "source": "higgsfield-ai/skills",
@@ -941,7 +1058,8 @@
   "path": "higgsfield-youtube-thumbnail",
   "name": "higgsfield-youtube-thumbnail",
   "description": "Create high-click-through YouTube thumbnails and vertical video covers through the Higgsfield CLI. Builds a truthful information-gap concept, preserves up to three referenced identities, supports logos and controlled variants, renders the main image with Nano Banana Pro, and applies focused Seedream",
-  "dir": "skills/higgsfield-ai__skills/higgsfield-youtube-thumbnail"
+  "dir": "skills/higgsfield-ai__skills/higgsfield-youtube-thumbnail",
+  "zip": "zips/higgsfield-ai__skills/higgsfield-youtube-thumbnail.zip"
  },
  {
   "source": "iart-ai/ad-video-skills",
@@ -949,7 +1067,8 @@
   "path": "skills/ad-creative-video",
   "name": "ad-creative-video",
   "description": "This skill should be used when the user asks to \"make a video ad\", \"create an animated ad\", \"build a performance/UGC-style ad\", \"batch-produce ad creative variations\", \"generate ad variants for A/B testing\", \"swap headline/offer/CTA across many ad versions\", or \"export one ad in multiple aspect rati",
-  "dir": "skills/iart-ai__ad-video-skills/ad-creative-video"
+  "dir": "skills/iart-ai__ad-video-skills/ad-creative-video",
+  "zip": "zips/iart-ai__ad-video-skills/ad-creative-video.zip"
  },
  {
   "source": "iart-ai/ad-video-skills",
@@ -957,7 +1076,8 @@
   "path": "skills/launch-video",
   "name": "launch-video",
   "description": "This skill should be used when the user asks to \"make a launch video\", \"create a product hype/sizzle film\", \"build a teaser/trailer for a drop\", \"do a reveal montage with an end-card CTA\", \"cut a hero video to the beat\", or \"export a launch film in 16:9/9:16/1:1\". Covers the hook→tease→reveal→featur",
-  "dir": "skills/iart-ai__ad-video-skills/launch-video"
+  "dir": "skills/iart-ai__ad-video-skills/launch-video",
+  "zip": "zips/iart-ai__ad-video-skills/launch-video.zip"
  },
  {
   "source": "iart-ai/ad-video-skills",
@@ -965,7 +1085,8 @@
   "path": "skills/testimonial-video",
   "name": "testimonial-video",
   "description": "This skill should be used when the user asks to \"make an animated testimonial\", \"create a quote video\", \"build a review video\", \"turn a customer testimonial into a graphic\", \"animate a customer review\", \"make a social proof video\", \"add an animated star rating\", or \"turn a list of reviews into video",
-  "dir": "skills/iart-ai__ad-video-skills/testimonial-video"
+  "dir": "skills/iart-ai__ad-video-skills/testimonial-video",
+  "zip": "zips/iart-ai__ad-video-skills/testimonial-video.zip"
  },
  {
   "source": "iart-ai/b-roll-skills",
@@ -973,7 +1094,8 @@
   "path": "skills/talking-head-b-roll",
   "name": "talking-head-b-roll",
   "description": "Add b-roll motion graphics to a talking-head video. Transcribes the recording with word timings, decides line by line when the speaker is shown, when a graphic is laid over them and when a full-frame graphic covers them, draws each graphic from what is actually said (numbers, comparisons, steps, key",
-  "dir": "skills/iart-ai__b-roll-skills/talking-head-b-roll"
+  "dir": "skills/iart-ai__b-roll-skills/talking-head-b-roll",
+  "zip": "zips/iart-ai__b-roll-skills/talking-head-b-roll.zip"
  },
  {
   "source": "iart-ai/data-animation-skills",
@@ -981,7 +1103,8 @@
   "path": "skills/animated-infographic",
   "name": "animated-infographic",
   "description": "This skill should be used when the user asks to \"make an animated infographic\", \"create an infographic video\", \"build an infographic animation\", \"animate an explainer infographic\", \"do a sequenced reveal of icons and stats\", \"animate icons with key numbers and connectors\", or \"lay out a designed inf",
-  "dir": "skills/iart-ai__data-animation-skills/animated-infographic"
+  "dir": "skills/iart-ai__data-animation-skills/animated-infographic",
+  "zip": "zips/iart-ai__data-animation-skills/animated-infographic.zip"
  },
  {
   "source": "iart-ai/data-animation-skills",
@@ -989,7 +1112,8 @@
   "path": "skills/chart-animation",
   "name": "chart-animation",
   "description": "This skill should be used when the user asks to \"make a bar chart race\", \"turn a CSV into a video\", \"build an animated data visualization\", \"create an animated statistics video\", \"animate a chart/graph\", \"make a number counter/ticker\", \"animate a ranking over time\", or \"batch-render one chart templa",
-  "dir": "skills/iart-ai__data-animation-skills/chart-animation"
+  "dir": "skills/iart-ai__data-animation-skills/chart-animation",
+  "zip": "zips/iart-ai__data-animation-skills/chart-animation.zip"
  },
  {
   "source": "iart-ai/data-animation-skills",
@@ -997,7 +1121,8 @@
   "path": "skills/presentation-video",
   "name": "presentation-video",
   "description": "This skill should be used when the user asks to \"make an animated presentation\", \"turn a pitch deck into a video\", \"convert slides/a deck to video\", \"make a presentation video\", \"build a deck video\", \"narrate a slide deck as a video\", or \"auto-advance slides synced to a voiceover\". Covers rebuilding",
-  "dir": "skills/iart-ai__data-animation-skills/presentation-video"
+  "dir": "skills/iart-ai__data-animation-skills/presentation-video",
+  "zip": "zips/iart-ai__data-animation-skills/presentation-video.zip"
  },
  {
   "source": "iart-ai/ecommerce-video-skills",
@@ -1005,7 +1130,8 @@
   "path": "skills/photo-slideshow",
   "name": "photo-slideshow",
   "description": "This skill should be used when the user asks to \"make a photo slideshow\", \"turn photos into a video\", \"create a photo montage video\", \"make a picture slideshow with music\", \"build a memories/recap video from photos\", \"add Ken Burns pan/zoom to photos\", \"sync slide changes to the music beat\", or \"ren",
-  "dir": "skills/iart-ai__ecommerce-video-skills/photo-slideshow"
+  "dir": "skills/iart-ai__ecommerce-video-skills/photo-slideshow",
+  "zip": "zips/iart-ai__ecommerce-video-skills/photo-slideshow.zip"
  },
  {
   "source": "iart-ai/ecommerce-video-skills",
@@ -1013,7 +1139,8 @@
   "path": "skills/product-demo-video",
   "name": "product-demo-video",
   "description": "This skill should be used when the user asks to \"make a product demo video\", \"create an app demo video\", \"build a feature announcement video\", \"do a SaaS demo\", \"make a UI walkthrough video\", \"animate product screenshots into a demo\", \"add an animated cursor/click to a screenshot\", or \"zoom into par",
-  "dir": "skills/iart-ai__ecommerce-video-skills/product-demo-video"
+  "dir": "skills/iart-ai__ecommerce-video-skills/product-demo-video",
+  "zip": "zips/iart-ai__ecommerce-video-skills/product-demo-video.zip"
  },
  {
   "source": "iart-ai/ecommerce-video-skills",
@@ -1021,7 +1148,8 @@
   "path": "skills/promo-video",
   "name": "promo-video",
   "description": "This skill should be used when the user asks to \"make a sale video\", \"create a promo video\", \"build a discount/percentage-off reveal\", \"animate a was→now price with a strike-through\", \"do a Black Friday / flash-sale / clearance video\", \"make a promo-code reveal with a countdown\", or \"batch a promo t",
-  "dir": "skills/iart-ai__ecommerce-video-skills/promo-video"
+  "dir": "skills/iart-ai__ecommerce-video-skills/promo-video",
+  "zip": "zips/iart-ai__ecommerce-video-skills/promo-video.zip"
  },
  {
   "source": "iart-ai/explainer-video-skills",
@@ -1029,7 +1157,8 @@
   "path": "skills/diagram-animation",
   "name": "diagram-animation",
   "description": "This skill should be used when the user asks to \"animate this diagram\", \"build a flowchart that reveals step by step\", \"animate an architecture/sequence diagram\", \"make a chart animate in\", \"grow the bars / draw the line / count up the number\", \"show data flowing along a connector\", or \"turn a stati",
-  "dir": "skills/iart-ai__explainer-video-skills/diagram-animation"
+  "dir": "skills/iart-ai__explainer-video-skills/diagram-animation",
+  "zip": "zips/iart-ai__explainer-video-skills/diagram-animation.zip"
  },
  {
   "source": "iart-ai/explainer-video-skills",
@@ -1037,7 +1166,8 @@
   "path": "skills/explainer-video",
   "name": "explainer-video",
   "description": "This skill should be used when the user asks to \"make an explainer video\", \"turn this into a short explainer\", \"write a script and storyboard for a product video\", \"produce a how-it-works/onboarding video\", \"sync narration and captions\", or \"build a 30–90s animated explainer\". Covers script→storyboa",
-  "dir": "skills/iart-ai__explainer-video-skills/explainer-video"
+  "dir": "skills/iart-ai__explainer-video-skills/explainer-video",
+  "zip": "zips/iart-ai__explainer-video-skills/explainer-video.zip"
  },
  {
   "source": "iart-ai/explainer-video-skills",
@@ -1045,7 +1175,8 @@
   "path": "skills/isometric-animation",
   "name": "isometric-animation",
   "description": "This skill should be used when the user asks to \"make an isometric animation\", \"build a 2.5D isometric scene\", \"create an isometric infographic\", \"animate an exploded diagram\", \"do an isometric city/stack build\", \"show stacked layers in iso\", \"extrude blocks with depth\", or \"add a gentle camera drif",
-  "dir": "skills/iart-ai__explainer-video-skills/isometric-animation"
+  "dir": "skills/iart-ai__explainer-video-skills/isometric-animation",
+  "zip": "zips/iart-ai__explainer-video-skills/isometric-animation.zip"
  },
  {
   "source": "iart-ai/explainer-video-skills",
@@ -1053,7 +1184,8 @@
   "path": "skills/whiteboard-animation",
   "name": "whiteboard-animation",
   "description": "This skill should be used when the user asks to \"make a whiteboard animation\", \"draw-on explainer\", \"VideoScribe style\", \"hand-drawn explainer video\", \"animate a sketch being drawn\", \"do a doodle/scribe video\", \"show a hand drawing the illustration\", or \"animate handwriting appearing on a whiteboard",
-  "dir": "skills/iart-ai__explainer-video-skills/whiteboard-animation"
+  "dir": "skills/iart-ai__explainer-video-skills/whiteboard-animation",
+  "zip": "zips/iart-ai__explainer-video-skills/whiteboard-animation.zip"
  },
  {
   "source": "iart-ai/explainer-video-skills",
@@ -1061,7 +1193,8 @@
   "path": "skills/wrapped-video",
   "name": "wrapped-video",
   "description": "This skill should be used when the user asks to \"make a Spotify Wrapped style video\", \"build a year in review / year-in-review video\", \"create a personalized data video\", \"generate a recap video\", \"build a wrapped video generator\", \"turn a data table into shareable videos\", or \"make per-user stat vi",
-  "dir": "skills/iart-ai__explainer-video-skills/wrapped-video"
+  "dir": "skills/iart-ai__explainer-video-skills/wrapped-video",
+  "zip": "zips/iart-ai__explainer-video-skills/wrapped-video.zip"
  },
  {
   "source": "iart-ai/freelance-motion-skills",
@@ -1069,7 +1202,8 @@
   "path": "skills/brand-motion-guidelines",
   "name": "brand-motion-guidelines",
   "description": "This skill should be used when the user asks to \"write motion guidelines\", \"create a brand motion system\", \"define easing and timing tokens\", \"document our animation principles\", \"build a motion language like Slack/IBM/Klarna\", \"set up entrance/exit/transition rules\", or \"add a reduced-motion / acce",
-  "dir": "skills/iart-ai__freelance-motion-skills/brand-motion-guidelines"
+  "dir": "skills/iart-ai__freelance-motion-skills/brand-motion-guidelines",
+  "zip": "zips/iart-ai__freelance-motion-skills/brand-motion-guidelines.zip"
  },
  {
   "source": "iart-ai/freelance-motion-skills",
@@ -1077,7 +1211,8 @@
   "path": "skills/client-revisions",
   "name": "client-revisions",
   "description": "This skill should be used when the user asks to \"stop scope creep\", \"limit revision rounds\", \"write SOW revision language\", \"the client keeps asking for changes\", \"how do I say this is out of scope\", \"translate vague feedback\", \"client said make it pop\", or \"write a change-order email\". It provides ",
-  "dir": "skills/iart-ai__freelance-motion-skills/client-revisions"
+  "dir": "skills/iart-ai__freelance-motion-skills/client-revisions",
+  "zip": "zips/iart-ai__freelance-motion-skills/client-revisions.zip"
  },
  {
   "source": "iart-ai/freelance-motion-skills",
@@ -1085,7 +1220,8 @@
   "path": "skills/creative-brief",
   "name": "creative-brief",
   "description": "This skill should be used when the user asks to \"write a creative brief\", \"build a motion brief\", \"the client doesn't know what they want\", \"turn this vague client request into a brief\", \"what questions should I ask the client\", or \"make a brief I can get sign-off on\". It turns a fuzzy client ask in",
-  "dir": "skills/iart-ai__freelance-motion-skills/creative-brief"
+  "dir": "skills/iart-ai__freelance-motion-skills/creative-brief",
+  "zip": "zips/iart-ai__freelance-motion-skills/creative-brief.zip"
  },
  {
   "source": "iart-ai/freelance-motion-skills",
@@ -1093,7 +1229,8 @@
   "path": "skills/motion-pricing",
   "name": "motion-pricing",
   "description": "This skill should be used when the user asks to \"quote a motion project\", \"estimate this animation job\", \"how much should I charge for this video\", \"what's my day rate\", \"build a quote\", \"price a 30-second explainer\", or \"is this estimate fair\". It explains motion-design pricing models, the day-rate",
-  "dir": "skills/iart-ai__freelance-motion-skills/motion-pricing"
+  "dir": "skills/iart-ai__freelance-motion-skills/motion-pricing",
+  "zip": "zips/iart-ai__freelance-motion-skills/motion-pricing.zip"
  },
  {
   "source": "iart-ai/freelance-motion-skills",
@@ -1101,7 +1238,8 @@
   "path": "skills/video-delivery-specs",
   "name": "video-delivery-specs",
   "description": "This skill should be used when the user asks \"what are the specs for Instagram Reels / TikTok / YouTube / broadcast\", \"export settings for social\", \"what aspect ratio and bitrate\", \"how do I repurpose 16:9 to 9:16\", \"safe area / title-safe for vertical\", \"pre-delivery checklist\", or \"collect files f",
-  "dir": "skills/iart-ai__freelance-motion-skills/video-delivery-specs"
+  "dir": "skills/iart-ai__freelance-motion-skills/video-delivery-specs",
+  "zip": "zips/iart-ai__freelance-motion-skills/video-delivery-specs.zip"
  },
  {
   "source": "iart-ai/generative-illustration-skills",
@@ -1109,7 +1247,8 @@
   "path": "skills/generative-illustration",
   "name": "generative-illustration",
   "description": "This skill should be used when the user asks to \"make an animated illustration\", \"animate an illustration\", \"make a generative motion piece\" / \"动态平面\", \"turn AI-generated art into something that moves\", \"make a poetic or ambient motion piece / motion poem\", \"make a visual metaphor\", or \"combine AI-ge",
-  "dir": "skills/iart-ai__generative-illustration-skills/generative-illustration"
+  "dir": "skills/iart-ai__generative-illustration-skills/generative-illustration",
+  "zip": "zips/iart-ai__generative-illustration-skills/generative-illustration.zip"
  },
  {
   "source": "iart-ai/javascript-animation-skills",
@@ -1117,7 +1256,8 @@
   "path": "skills/javascript-animation",
   "name": "javascript-animation",
   "description": "This skill should be used when the user asks to \"draw every frame in JavaScript\", \"make an animation with no image assets\", \"animate this in code / on a canvas\", \"make a hand-drawn style animated video\", \"turn this into a short animated film\", \"make an animated explainer drawn in code\", \"make an ani",
-  "dir": "skills/iart-ai__javascript-animation-skills/javascript-animation"
+  "dir": "skills/iart-ai__javascript-animation-skills/javascript-animation",
+  "zip": "zips/iart-ai__javascript-animation-skills/javascript-animation.zip"
  },
  {
   "source": "iart-ai/javascript-animation-skills",
@@ -1125,7 +1265,8 @@
   "path": "skills/soundtrack",
   "name": "soundtrack",
   "description": "This skill should be used when the user asks to \"add music to the animation\", \"make the music in code\", \"synthesize a soundtrack\", \"compose background music that fits the cuts\", \"sync the music to the video\", \"check if the audio lines up with the picture\", or \"the music is too sudden / startling\". C",
-  "dir": "skills/iart-ai__javascript-animation-skills/soundtrack"
+  "dir": "skills/iart-ai__javascript-animation-skills/soundtrack",
+  "zip": "zips/iart-ai__javascript-animation-skills/soundtrack.zip"
  },
  {
   "source": "iart-ai/kinetic-typography-skills",
@@ -1133,7 +1274,8 @@
   "path": "skills/kinetic-typography",
   "name": "kinetic-typography",
   "description": "This skill should be used when the user asks to \"animate a headline\", \"make a kinetic typography video\", \"do a split-text reveal\", \"stagger text by character/word/line\", \"make a lyric or caption video\", \"animate a variable font weight\", \"put text on a path\", or \"create an animated title card\". Cover",
-  "dir": "skills/iart-ai__kinetic-typography-skills/kinetic-typography"
+  "dir": "skills/iart-ai__kinetic-typography-skills/kinetic-typography",
+  "zip": "zips/iart-ai__kinetic-typography-skills/kinetic-typography.zip"
  },
  {
   "source": "iart-ai/lower-thirds-skills",
@@ -1141,7 +1283,8 @@
   "path": "skills/lower-thirds",
   "name": "lower-thirds",
   "description": "Make animated lower thirds and other broadcast overlays (name straps, corner bugs, subscribe reminders, scripture or song titles) as transparent video files, drawn frame by frame in JavaScript on a canvas and rendered to WebM with alpha for OBS and browsers, or ProRes 4444 for Premiere Pro, DaVinci ",
-  "dir": "skills/iart-ai__lower-thirds-skills/lower-thirds"
+  "dir": "skills/iart-ai__lower-thirds-skills/lower-thirds",
+  "zip": "zips/iart-ai__lower-thirds-skills/lower-thirds.zip"
  },
  {
   "source": "iart-ai/manim-skills",
@@ -1149,7 +1292,8 @@
   "path": "skills/manim",
   "name": "manim",
   "description": "This skill should be used when the user asks to \"make a math animation\", \"animate an equation\", \"use Manim\", \"make a 3Blue1Brown-style video\", \"plot or animate a graph/function\", \"visualize a math/physics/CS concept\", \"morph one formula into another\", \"animate a geometric proof\", or \"render a math e",
-  "dir": "skills/iart-ai__manim-skills/manim"
+  "dir": "skills/iart-ai__manim-skills/manim",
+  "zip": "zips/iart-ai__manim-skills/manim.zip"
  },
  {
   "source": "iart-ai/map-animation-skills",
@@ -1157,7 +1301,8 @@
   "path": "skills/map-animation",
   "name": "map-animation",
   "description": "This skill should be used when the user asks to \"make a Vox-style map animation\", \"animate a map zoom\", \"draw a route on a map\", \"highlight a country/region\", \"use Google Earth Studio\", \"drop pins on a map and animate them\", \"pan/orbit a camera over a map\", or \"add map graphics to an explainer video",
-  "dir": "skills/iart-ai__map-animation-skills/map-animation"
+  "dir": "skills/iart-ai__map-animation-skills/map-animation",
+  "zip": "zips/iart-ai__map-animation-skills/map-animation.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1165,7 +1310,8 @@
   "path": "skills/after-effects",
   "name": "after-effects",
   "description": "This skill should be used when the user asks anything about Adobe After Effects — to \"write an After Effects expression\", \"make a wiggle / loopOut / inertial bounce\", \"rig a control with a slider / null\", \"build a MOGRT / Essential Graphics template\", \"export AE to Lottie or Media Encoder\"; OR to \"e",
-  "dir": "skills/iart-ai__motion-design-skills/after-effects"
+  "dir": "skills/iart-ai__motion-design-skills/after-effects",
+  "zip": "zips/iart-ai__motion-design-skills/after-effects.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1173,7 +1319,8 @@
   "path": "skills/animation-principles",
   "name": "animation-principles",
   "description": "This skill should be used when the user asks to \"make this animation feel natural\", \"fix motion that feels stiff/floaty/cheap\", \"my animation looks robotic\", \"choose an easing curve\", \"how do I use the Graph Editor\", \"add overshoot or bounce\", \"Easy Ease isn't enough\", \"make snappy motion\", \"pick a ",
-  "dir": "skills/iart-ai__motion-design-skills/animation-principles"
+  "dir": "skills/iart-ai__motion-design-skills/animation-principles",
+  "zip": "zips/iart-ai__motion-design-skills/animation-principles.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1181,7 +1328,8 @@
   "path": "skills/beat-sync-editing",
   "name": "beat-sync-editing",
   "description": "This skill should be used when the user asks to \"cut to the beat\", \"fix the pacing\", \"edit this sequence\", \"sync cuts to music/BPM\", \"add a match cut / J-cut / L-cut\", \"build a speed ramp\", or \"plan a shot sequence / edit timeline\". Covers editing rhythm, transitions, retiming, and translating an ed",
-  "dir": "skills/iart-ai__motion-design-skills/beat-sync-editing"
+  "dir": "skills/iart-ai__motion-design-skills/beat-sync-editing",
+  "zip": "zips/iart-ai__motion-design-skills/beat-sync-editing.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1189,7 +1337,8 @@
   "path": "skills/color-motion",
   "name": "color-motion",
   "description": "This skill should be used when the user asks to \"build a color palette for a motion piece\", \"make a gradient background\", \"animate a color transition\", \"interpolate colors smoothly\", \"fix muddy/gray gradients\", \"convert colors to OKLCH\", \"color-grade a video for mood\", \"fix washed-out After Effects ",
-  "dir": "skills/iart-ai__motion-design-skills/color-motion"
+  "dir": "skills/iart-ai__motion-design-skills/color-motion",
+  "zip": "zips/iart-ai__motion-design-skills/color-motion.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1197,7 +1346,8 @@
   "path": "skills/logo-animation",
   "name": "logo-animation",
   "description": "This skill should be used when the user asks to \"animate our logo\", \"make a logo intro/stinger\", \"build a brand reveal\", \"create an app splash animation\", \"loop a loader logo\", \"draw on our SVG mark\", \"morph an icon into the wordmark\", or \"sync the logo to a sound-logo\". Covers web (SVG/Lottie), vid",
-  "dir": "skills/iart-ai__motion-design-skills/logo-animation"
+  "dir": "skills/iart-ai__motion-design-skills/logo-animation",
+  "zip": "zips/iart-ai__motion-design-skills/logo-animation.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1205,7 +1355,8 @@
   "path": "skills/motion-art-direction",
   "name": "motion-art-direction",
   "description": "This skill should be used when the user asks to \"direct a motion graphics video\", \"do creative/art direction for a video\", \"define a motion language\", \"set the tone and pacing\", \"make the animation feel consistent\", \"decide what to animate (and what not to)\", \"turn a brief/brand into motion choices\"",
-  "dir": "skills/iart-ai__motion-design-skills/motion-art-direction"
+  "dir": "skills/iart-ai__motion-design-skills/motion-art-direction",
+  "zip": "zips/iart-ai__motion-design-skills/motion-art-direction.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1213,7 +1364,8 @@
   "path": "skills/motion-background",
   "name": "motion-background",
   "description": "This skill should be used when the user asks to \"add an animated background\", \"build a mesh/gradient background\", \"make an aurora/shader background\", \"add constellation/particle background\", \"animated hero background\", or \"a subtle looping background behind content\". Covers CSS mesh gradients, GLSL ",
-  "dir": "skills/iart-ai__motion-design-skills/motion-background"
+  "dir": "skills/iart-ai__motion-design-skills/motion-background",
+  "zip": "zips/iart-ai__motion-design-skills/motion-background.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1221,7 +1373,8 @@
   "path": "skills/remotion-video",
   "name": "remotion-video",
   "description": "This skill should be used when the user asks to \"make a video with Remotion\", \"create a programmatic/data-driven video in React\", \"render an MP4/GIF from code\", \"animate with useCurrentFrame/interpolate/spring\", \"sync video to audio/beats\", or \"render a templated video per record headlessly\". Covers",
-  "dir": "skills/iart-ai__motion-design-skills/remotion-video"
+  "dir": "skills/iart-ai__motion-design-skills/remotion-video",
+  "zip": "zips/iart-ai__motion-design-skills/remotion-video.zip"
  },
  {
   "source": "iart-ai/motion-design-skills",
@@ -1229,7 +1382,8 @@
   "path": "skills/shot-composition",
   "name": "shot-composition",
   "description": "This skill should be used when the user asks to \"compose a frame\", \"set up a grid\", \"plan shot composition\", \"place the focal point\", \"decide where elements enter and exit\", \"add a parallax/camera move\", \"adapt a layout for 16:9 / 9:16 / 1:1\", or \"keep content inside safe areas\". Covers grids, safe ",
-  "dir": "skills/iart-ai__motion-design-skills/shot-composition"
+  "dir": "skills/iart-ai__motion-design-skills/shot-composition",
+  "zip": "zips/iart-ai__motion-design-skills/shot-composition.zip"
  },
  {
   "source": "iart-ai/talking-head-skills",
@@ -1237,7 +1391,8 @@
   "path": "skills/talking-head",
   "name": "talking-head",
   "description": "Create an AI talking head from the user's own photos plus a voice sample, or from a self-recorded video by extracting face frames and speech. Use an authorized cloned or existing ElevenLabs voice and a new script to generate speaking shots with fal MiniMax H3, narration and editable motion graphics,",
-  "dir": "skills/iart-ai__talking-head-skills/talking-head"
+  "dir": "skills/iart-ai__talking-head-skills/talking-head",
+  "zip": "zips/iart-ai__talking-head-skills/talking-head.zip"
  },
  {
   "source": "iart-ai/text-message-video-skills",
@@ -1245,7 +1400,8 @@
   "path": "skills/text-message-animation",
   "name": "text-message-animation",
   "description": "This skill should be used when the user asks to \"make a fake text message video\", \"animate an iMessage conversation\", \"create a text story video\", \"do a chat reply animation\", \"WhatsApp/SMS conversation video\", \"typing indicator animation\", \"render a chat thread to a video\", or \"batch text-message v",
-  "dir": "skills/iart-ai__text-message-video-skills/text-message-animation"
+  "dir": "skills/iart-ai__text-message-video-skills/text-message-animation",
+  "zip": "zips/iart-ai__text-message-video-skills/text-message-animation.zip"
  },
  {
   "source": "iart-ai/tiktok-video-skills",
@@ -1253,7 +1409,8 @@
   "path": "skills/caption-animation",
   "name": "caption-animation",
   "description": "This skill should be used when the user asks to \"add animated captions\", \"make TikTok captions\", \"karaoke captions\", \"word-by-word subtitles\", \"auto subtitles\", \"highlight the active word\", \"burn in captions to a video\", \"sync captions to a voiceover/narration\", or \"turn an SRT/transcript into anima",
-  "dir": "skills/iart-ai__tiktok-video-skills/caption-animation"
+  "dir": "skills/iart-ai__tiktok-video-skills/caption-animation",
+  "zip": "zips/iart-ai__tiktok-video-skills/caption-animation.zip"
  },
  {
   "source": "iart-ai/tiktok-video-skills",
@@ -1261,7 +1418,8 @@
   "path": "skills/countdown-video",
   "name": "countdown-video",
   "description": "This skill should be used when the user asks to \"make a countdown timer video\", \"create a countdown animation\", \"build a stream starting soon countdown\", \"do an event/launch/sale countdown\", \"animate a mm:ss or dd:hh:mm:ss timer\", \"add digit roll/flip transitions to a counter\", or \"loop a countdown ",
-  "dir": "skills/iart-ai__tiktok-video-skills/countdown-video"
+  "dir": "skills/iart-ai__tiktok-video-skills/countdown-video",
+  "zip": "zips/iart-ai__tiktok-video-skills/countdown-video.zip"
  },
  {
   "source": "iart-ai/tiktok-video-skills",
@@ -1269,7 +1427,8 @@
   "path": "skills/lower-thirds",
   "name": "lower-thirds",
   "description": "This skill should be used when the user asks to \"make an animated lower third\", \"add lower thirds\", \"create a name tag/name lower third\", \"build broadcast titles\", \"animate a title/name/role caption\", \"do a speaker name overlay\", or \"template lower thirds across a list of names\". Covers enter/exit a",
-  "dir": "skills/iart-ai__tiktok-video-skills/lower-thirds"
+  "dir": "skills/iart-ai__tiktok-video-skills/lower-thirds",
+  "zip": "zips/iart-ai__tiktok-video-skills/lower-thirds.zip"
  },
  {
   "source": "iart-ai/tiktok-video-skills",
@@ -1277,7 +1436,8 @@
   "path": "skills/short-form-video",
   "name": "short-form-video",
   "description": "This skill should be used when the user asks to \"make a Reels/TikTok/YouTube Shorts video\", \"build a short-form video template\", \"write a hook for a short\", \"edit for retention\", \"add pattern interrupts\", \"make a video loop\", \"fix the first 3 seconds\", \"pace cuts for a vertical video\", or \"set up 9:",
-  "dir": "skills/iart-ai__tiktok-video-skills/short-form-video"
+  "dir": "skills/iart-ai__tiktok-video-skills/short-form-video",
+  "zip": "zips/iart-ai__tiktok-video-skills/short-form-video.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1285,7 +1445,8 @@
   "path": "skills/60fps-animation",
   "name": "60fps-animation",
   "description": "This skill should be used when the user asks to \"fix janky CSS animation\", \"make animation 60fps\", \"stop layout thrashing\", \"animate width/height/top/left smoothly\", \"convert animation to transform\", \"animate box-shadow performantly\", \"animate height auto\", \"FLIP animation\", or \"why is my scroll/hov",
-  "dir": "skills/iart-ai__web-animation-skills/60fps-animation"
+  "dir": "skills/iart-ai__web-animation-skills/60fps-animation",
+  "zip": "zips/iart-ai__web-animation-skills/60fps-animation.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1293,7 +1454,8 @@
   "path": "skills/accessible-animation",
   "name": "accessible-animation",
   "description": "This skill should be used when the user asks to \"respect prefers-reduced-motion\", \"honor reduced motion\", \"make my animations accessible\", \"fix vestibular / motion-sickness issues\", \"add a useReducedMotion hook\", \"gate GSAP / Framer Motion / Lenis for reduced motion\", or \"meet WCAG 2.3.3 / C39\". Pro",
-  "dir": "skills/iart-ai__web-animation-skills/accessible-animation"
+  "dir": "skills/iart-ai__web-animation-skills/accessible-animation",
+  "zip": "zips/iart-ai__web-animation-skills/accessible-animation.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1301,7 +1463,8 @@
   "path": "skills/ascii-animation",
   "name": "ascii-animation",
   "description": "This skill should be used when the user asks to \"make an ASCII animation\", \"build a terminal/CLI intro or loader\", \"convert an image or video to ASCII art\", \"add an ASCII shader/post-effect to a canvas or Three.js scene\", \"create retro/hacker text-character motion\", or \"animate text characters with ",
-  "dir": "skills/iart-ai__web-animation-skills/ascii-animation"
+  "dir": "skills/iart-ai__web-animation-skills/ascii-animation",
+  "zip": "zips/iart-ai__web-animation-skills/ascii-animation.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1309,7 +1472,8 @@
   "path": "skills/glassmorphism",
   "name": "glassmorphism",
   "description": "This skill should be used when the user asks to \"add a glassmorphism effect\", \"frosted glass UI\", \"Apple liquid glass style\", \"frosted blur card\", \"translucent glass panel animation\", \"make a frosted nav bar\", \"build a glass modal/dialog\", \"animate a glass card on hover\", or \"add a refracting liquid",
-  "dir": "skills/iart-ai__web-animation-skills/glassmorphism"
+  "dir": "skills/iart-ai__web-animation-skills/glassmorphism",
+  "zip": "zips/iart-ai__web-animation-skills/glassmorphism.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1317,7 +1481,8 @@
   "path": "skills/gsap-web",
   "name": "gsap-web",
   "description": "This skill should be used when the user asks to \"build a scroll animation\", \"add ScrollTrigger\", \"pin a section while scrolling\", \"scrub an animation to scroll\", \"create a hero timeline\", \"do a horizontal scroll section\", \"split text and animate words\", \"animate a layout change with GSAP Flip\", \"syn",
-  "dir": "skills/iart-ai__web-animation-skills/gsap-web"
+  "dir": "skills/iart-ai__web-animation-skills/gsap-web",
+  "zip": "zips/iart-ai__web-animation-skills/gsap-web.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1325,7 +1490,8 @@
   "path": "skills/lottie-animation",
   "name": "lottie-animation",
   "description": "This skill should be used when the user asks to \"add a Lottie animation\", \"play a .lottie or .json animation\", \"integrate a Bodymovin/After Effects animation on web or mobile\", \"control Lottie playback / segments\", \"make a scroll-driven Lottie\", \"recolor a Lottie at runtime\", or \"export an AE animat",
-  "dir": "skills/iart-ai__web-animation-skills/lottie-animation"
+  "dir": "skills/iart-ai__web-animation-skills/lottie-animation",
+  "zip": "zips/iart-ai__web-animation-skills/lottie-animation.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1333,7 +1499,8 @@
   "path": "skills/micro-interaction",
   "name": "micro-interaction",
   "description": "This skill should be used when the user asks to \"add a hover/press effect\", \"animate a toggle or switch\", \"build an animated like button\", \"make a toast/snackbar slide in\", \"animate a drawer or modal\", \"animate list reordering or add/remove\", \"do a shared-element layout transition\", or \"polish UI fe",
-  "dir": "skills/iart-ai__web-animation-skills/micro-interaction"
+  "dir": "skills/iart-ai__web-animation-skills/micro-interaction",
+  "zip": "zips/iart-ai__web-animation-skills/micro-interaction.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1341,7 +1508,8 @@
   "path": "skills/page-transition-animation",
   "name": "page-transition-animation",
   "description": "This skill should be used when the user asks to \"animate page or route transitions\", \"add a page transition or crossfade between views\", \"animate route changes in Next.js App Router\", \"use the View Transitions API\", \"AnimatePresence exit doesn't fire on navigation\", or \"Framer Motion exit animation ",
-  "dir": "skills/iart-ai__web-animation-skills/page-transition-animation"
+  "dir": "skills/iart-ai__web-animation-skills/page-transition-animation",
+  "zip": "zips/iart-ai__web-animation-skills/page-transition-animation.zip"
  },
  {
   "source": "iart-ai/web-animation-skills",
@@ -1349,7 +1517,8 @@
   "path": "skills/svg-animation",
   "name": "svg-animation",
   "description": "This skill should be used when the user asks to \"animate an SVG\", \"make a line draw itself on\", \"do a stroke draw-on / signature animation\", \"morph one shape into another\", \"move an element along a path\", \"animate an icon/logo\", or \"animate an SVG gradient or filter\". Covers stroke-dashoffset draw-o",
-  "dir": "skills/iart-ai__web-animation-skills/svg-animation"
+  "dir": "skills/iart-ai__web-animation-skills/svg-animation",
+  "zip": "zips/iart-ai__web-animation-skills/svg-animation.zip"
  },
  {
   "source": "iart-ai/webgl-animation-skills",
@@ -1357,7 +1526,8 @@
   "path": "skills/particle-system",
   "name": "particle-system",
   "description": "This skill should be used when the user asks to \"build a particle system\", \"make confetti/snow/smoke/sparks\", \"create a connected-dot/constellation network background\", \"add a flow-field or curl-noise particle effect\", \"render thousands of GPU particles with Three.js Points\", or \"animate emitters wi",
-  "dir": "skills/iart-ai__webgl-animation-skills/particle-system"
+  "dir": "skills/iart-ai__webgl-animation-skills/particle-system",
+  "zip": "zips/iart-ai__webgl-animation-skills/particle-system.zip"
  },
  {
   "source": "iart-ai/webgl-animation-skills",
@@ -1365,7 +1535,8 @@
   "path": "skills/shader-glsl",
   "name": "shader-glsl",
   "description": "This skill should be used when the user asks to \"write a fragment shader\", \"make a GLSL gradient/noise/plasma background\", \"create an image transition (dissolve, displacement, glitch)\", \"add distortion or chromatic aberration\", \"build an SDF shape shader\", \"wire up a Three.js ShaderMaterial with uni",
-  "dir": "skills/iart-ai__webgl-animation-skills/shader-glsl"
+  "dir": "skills/iart-ai__webgl-animation-skills/shader-glsl",
+  "zip": "zips/iart-ai__webgl-animation-skills/shader-glsl.zip"
  },
  {
   "source": "iart-ai/webgl-animation-skills",
@@ -1373,7 +1544,8 @@
   "path": "skills/threejs-animation",
   "name": "threejs-animation",
   "description": "This skill should be used when the user asks to \"build a 3D hero section or WebGL background\", \"animate a Three.js scene\", \"play or crossfade GLTF animation clips\", \"move/lerp the camera or link it to scroll\", \"render thousands of objects with InstancedMesh\", \"set up React Three Fiber (R3F) motion\",",
-  "dir": "skills/iart-ai__webgl-animation-skills/threejs-animation"
+  "dir": "skills/iart-ai__webgl-animation-skills/threejs-animation",
+  "zip": "zips/iart-ai__webgl-animation-skills/threejs-animation.zip"
  },
  {
   "source": "iart-ai/youtube-video-skills",
@@ -1381,7 +1553,8 @@
   "path": "skills/audiogram",
   "name": "audiogram",
   "description": "This skill should be used when the user asks to \"make an audiogram\", \"turn a podcast into a video\", \"create a waveform video\", \"make a podcast clip video\", \"convert audio to video\", \"animate a waveform/audio bars\", \"add a moving waveform to my voiceover\", or \"make a square/vertical clip for a podcas",
-  "dir": "skills/iart-ai__youtube-video-skills/audiogram"
+  "dir": "skills/iart-ai__youtube-video-skills/audiogram",
+  "zip": "zips/iart-ai__youtube-video-skills/audiogram.zip"
  },
  {
   "source": "iart-ai/youtube-video-skills",
@@ -1389,7 +1562,8 @@
   "path": "skills/youtube-intro-outro",
   "name": "youtube-intro-outro",
   "description": "This skill should be used when the user asks to \"make a YouTube intro\", \"create a channel intro\", \"build a logo sting/bumper\", \"design an outro / end screen / end card\", \"add subscribe and next-video cards\", \"make an intro animation\", \"build a reusable intro template\", or \"sync the logo reveal to an",
-  "dir": "skills/iart-ai__youtube-video-skills/youtube-intro-outro"
+  "dir": "skills/iart-ai__youtube-video-skills/youtube-intro-outro",
+  "zip": "zips/iart-ai__youtube-video-skills/youtube-intro-outro.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1397,7 +1571,8 @@
   "path": "tools/agent-tools",
   "name": "agent-tools",
   "description": "Run AI apps via inference.sh CLI - image generation, video creation, LLMs, search, 3D, Twitter automation. Models: FLUX, Veo, Gemini, Grok, Claude, Seedance, OmniHuman, Tavily, Exa, OpenRouter, and many more. Use when running AI apps, generating images/videos, calling LLMs, web search, or automating",
-  "dir": "skills/inference-sh__skills/agent-tools"
+  "dir": "skills/inference-sh__skills/agent-tools",
+  "zip": "zips/inference-sh__skills/agent-tools.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1405,7 +1580,8 @@
   "path": "tools/infsh-cli",
   "name": "infsh-cli",
   "description": "Run AI apps via inference.sh CLI - image generation, video creation, LLMs, search, 3D, Twitter automation. Models: FLUX, Veo, Gemini, Grok, Claude, Seedance, OmniHuman, Tavily, Exa, OpenRouter, and many more. Use when running AI apps, generating images/videos, calling LLMs, web search, or automating",
-  "dir": "skills/inference-sh__skills/infsh-cli"
+  "dir": "skills/inference-sh__skills/infsh-cli",
+  "zip": "zips/inference-sh__skills/infsh-cli.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1413,7 +1589,8 @@
   "path": "guides/content/ai-content-pipeline",
   "name": "ai-content-pipeline",
   "description": "Build multi-step AI content creation pipelines combining image, video, audio, and text. Workflow examples: generate image -> animate -> add voiceover -> merge with music. Tools: FLUX, Veo, Kokoro TTS, OmniHuman, media merger, upscaling. Use for: YouTube videos, social media content, marketing materi",
-  "dir": "skills/inference-sh__skills/ai-content-pipeline"
+  "dir": "skills/inference-sh__skills/ai-content-pipeline",
+  "zip": "zips/inference-sh__skills/ai-content-pipeline.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1421,7 +1598,8 @@
   "path": "guides/content/ai-podcast",
   "name": "ai-podcast",
   "description": "Generate multi-person talking head podcast videos from scratch using AI — character creation, TTS, avatar animation, and video stitching. Use when the user wants to create a podcast, talking head video, or multi-speaker conversation video.",
-  "dir": "skills/inference-sh__skills/ai-podcast"
+  "dir": "skills/inference-sh__skills/ai-podcast",
+  "zip": "zips/inference-sh__skills/ai-podcast.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1429,7 +1607,8 @@
   "path": "guides/content/ai-podcast-creation",
   "name": "ai-podcast-creation",
   "description": "Create AI-powered podcasts with text-to-speech, music, and audio editing. Tools: Kokoro TTS, DIA TTS, Chatterbox, AI music generation, ffmpeg for audio assembly. Capabilities: multi-voice conversations, background music, intro/outro, full episodes. Use for: podcast production, audiobooks, voice cont",
-  "dir": "skills/inference-sh__skills/ai-podcast-creation"
+  "dir": "skills/inference-sh__skills/ai-podcast-creation",
+  "zip": "zips/inference-sh__skills/ai-podcast-creation.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1437,7 +1616,8 @@
   "path": "guides/content/content-repurposing",
   "name": "content-repurposing",
   "description": "Content atomization — turn one piece of content into many formats. Covers blog-to-thread, blog-to-carousel, podcast-to-blog, video-to-quotes, and more. Use for: content marketing, social media, multi-platform distribution, content strategy. Triggers: content repurposing, repurpose content, content a",
-  "dir": "skills/inference-sh__skills/content-repurposing"
+  "dir": "skills/inference-sh__skills/content-repurposing",
+  "zip": "zips/inference-sh__skills/content-repurposing.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1445,7 +1625,8 @@
   "path": "guides/design/youtube-thumbnail-design",
   "name": "youtube-thumbnail-design",
   "description": "YouTube thumbnail design with specific dimensions, contrast rules, and mobile preview optimization. Covers safe zones, text placement, face expression psychology, and A/B testing. Use for: YouTube thumbnails, video cover images, click-through optimization. Triggers: youtube thumbnail, thumbnail desi",
-  "dir": "skills/inference-sh__skills/youtube-thumbnail-design"
+  "dir": "skills/inference-sh__skills/youtube-thumbnail-design",
+  "zip": "zips/inference-sh__skills/youtube-thumbnail-design.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1453,7 +1634,8 @@
   "path": "guides/prompting/video-prompting-guide",
   "name": "video-prompting-guide",
   "description": "Best practices and techniques for writing effective AI video generation prompts. Covers: Veo, Seedance, Wan, Grok, Kling, Runway, Pika, Sora prompting strategies. Learn: shot types, camera movements, lighting, pacing, style keywords, negative prompts. Use for: improving video quality, getting consis",
-  "dir": "skills/inference-sh__skills/video-prompting-guide"
+  "dir": "skills/inference-sh__skills/video-prompting-guide",
+  "zip": "zips/inference-sh__skills/video-prompting-guide.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1461,7 +1643,8 @@
   "path": "guides/social/ai-social-media-content",
   "name": "ai-social-media-content",
   "description": "Create AI-powered social media content for TikTok, Instagram, YouTube, Twitter/X. Generate: images, videos, reels, shorts, thumbnails, captions, hashtags. Tools: FLUX, Veo, Seedance, Wan, Kokoro TTS, Claude for copywriting. Use for: content creators, social media managers, influencers, brands. Trigg",
-  "dir": "skills/inference-sh__skills/ai-social-media-content"
+  "dir": "skills/inference-sh__skills/ai-social-media-content",
+  "zip": "zips/inference-sh__skills/ai-social-media-content.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1469,7 +1652,8 @@
   "path": "guides/video/ai-marketing-videos",
   "name": "ai-marketing-videos",
   "description": "Create AI marketing videos for ads, promos, product launches, and brand content. Models: Veo, Seedance, Wan, FLUX for visuals, Kokoro for voiceover. Types: product demos, testimonials, explainers, social ads, brand videos. Use for: Facebook ads, YouTube ads, product launches, brand awareness. Trigge",
-  "dir": "skills/inference-sh__skills/ai-marketing-videos"
+  "dir": "skills/inference-sh__skills/ai-marketing-videos",
+  "zip": "zips/inference-sh__skills/ai-marketing-videos.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1477,7 +1661,8 @@
   "path": "guides/video/explainer-video-guide",
   "name": "explainer-video-guide",
   "description": "Explainer video production guide: scripting, voiceover, visuals, and assembly. Covers script formulas, pacing rules, scene planning, and multi-tool pipelines. Use for: product demos, how-it-works videos, onboarding videos, social explainers. Triggers: explainer video, how to make explainer, product ",
-  "dir": "skills/inference-sh__skills/explainer-video-guide"
+  "dir": "skills/inference-sh__skills/explainer-video-guide",
+  "zip": "zips/inference-sh__skills/explainer-video-guide.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1485,7 +1670,8 @@
   "path": "guides/video/storyboard-creation",
   "name": "storyboard-creation",
   "description": "Film and video storyboarding with shot vocabulary, continuity rules, and panel layout. Covers shot types, camera angles, movement, 180-degree rule, and annotation format. Use for: video planning, film pre-production, ad storyboards, music video planning, animation. Triggers: storyboard, storyboardin",
-  "dir": "skills/inference-sh__skills/storyboard-creation"
+  "dir": "skills/inference-sh__skills/storyboard-creation",
+  "zip": "zips/inference-sh__skills/storyboard-creation.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1493,7 +1679,8 @@
   "path": "guides/video/talking-head-production",
   "name": "talking-head-production",
   "description": "Talking head video production with AI avatars, lipsync, and voiceover. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also covers OmniHuman, PixVerse, Fabric. Portrait requirements, audio quality, production workflows. Use for: spokesperson videos, course content, social media, prese",
-  "dir": "skills/inference-sh__skills/talking-head-production"
+  "dir": "skills/inference-sh__skills/talking-head-production",
+  "zip": "zips/inference-sh__skills/talking-head-production.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1501,7 +1688,8 @@
   "path": "guides/video/video-ad-specs",
   "name": "video-ad-specs",
   "description": "Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits, AIDA framework, and caption requirements. Use for: video ads, social media ads, paid media creative, video marketing, ad production. Triggers: video ad, social",
-  "dir": "skills/inference-sh__skills/video-ad-specs"
+  "dir": "skills/inference-sh__skills/video-ad-specs",
+  "zip": "zips/inference-sh__skills/video-ad-specs.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1509,7 +1697,8 @@
   "path": "tools/audio/ai-voice-cloning",
   "name": "ai-voice-cloning",
   "description": "AI voice generation, text-to-speech, and voice synthesis via inference.sh CLI. Models: Inworld TTS-2 (100+ languages, emotion/non-verbal steering), Inworld TTS 1.5 (ultra-low latency), ElevenLabs (22+ premium voices, 32 languages), Kokoro TTS, DIA, Chatterbox, Higgs, VibeVoice for natural speech. Ca",
-  "dir": "skills/inference-sh__skills/ai-voice-cloning"
+  "dir": "skills/inference-sh__skills/ai-voice-cloning",
+  "zip": "zips/inference-sh__skills/ai-voice-cloning.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1517,7 +1706,8 @@
   "path": "tools/audio/elevenlabs-dialogue",
   "name": "elevenlabs-dialogue",
   "description": "ElevenLabs multi-speaker dialogue generation - create conversations with different voices in a single audio file via inference.sh CLI. Capabilities: multi-voice dialogue, script-based generation, voice direction, conversation audio. Use for: podcasts, audiobooks, explainers, tutorials, character dia",
-  "dir": "skills/inference-sh__skills/elevenlabs-dialogue"
+  "dir": "skills/inference-sh__skills/elevenlabs-dialogue",
+  "zip": "zips/inference-sh__skills/elevenlabs-dialogue.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1525,7 +1715,8 @@
   "path": "tools/audio/elevenlabs-dubbing",
   "name": "elevenlabs-dubbing",
   "description": "ElevenLabs automatic dubbing - translate and dub audio/video into 29 languages while preserving speaker voice via inference.sh CLI. Capabilities: auto speaker detection, voice-preserving translation, video dubbing, audio localization. Use for: content localization, video translation, multilingual co",
-  "dir": "skills/inference-sh__skills/elevenlabs-dubbing"
+  "dir": "skills/inference-sh__skills/elevenlabs-dubbing",
+  "zip": "zips/inference-sh__skills/elevenlabs-dubbing.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1533,7 +1724,8 @@
   "path": "tools/audio/elevenlabs-music",
   "name": "elevenlabs-music",
   "description": "ElevenLabs AI music generation - create original music from text prompts via inference.sh CLI. Capabilities: text-to-music, custom duration up to 10 minutes, genre/mood/instrument control, royalty-free commercial use. Use for: background music, soundtracks, jingles, podcasts, video scores, game audi",
-  "dir": "skills/inference-sh__skills/elevenlabs-music"
+  "dir": "skills/inference-sh__skills/elevenlabs-music",
+  "zip": "zips/inference-sh__skills/elevenlabs-music.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1541,7 +1733,8 @@
   "path": "tools/audio/elevenlabs-sound-effects",
   "name": "elevenlabs-sound-effects",
   "description": "Generate AI sound effects from text descriptions with ElevenLabs via inference.sh CLI. Capabilities: text-to-sound-effect, custom duration, royalty-free audio. Use for: video production, game audio, podcasts, films, presentations, social media. Triggers: sound effects, sfx, sound generation, ai soun",
-  "dir": "skills/inference-sh__skills/elevenlabs-sound-effects"
+  "dir": "skills/inference-sh__skills/elevenlabs-sound-effects",
+  "zip": "zips/inference-sh__skills/elevenlabs-sound-effects.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1549,7 +1742,8 @@
   "path": "tools/audio/elevenlabs-stt",
   "name": "elevenlabs-stt",
   "description": "ElevenLabs speech-to-text with Scribe models and forced alignment via inference.sh CLI. Models: Scribe v1/v2 (98%+ accuracy, 90+ languages). Capabilities: transcription, speaker diarization, audio event tagging, word-level timestamps, forced alignment, subtitle generation. Use for: meeting transcrip",
-  "dir": "skills/inference-sh__skills/elevenlabs-stt"
+  "dir": "skills/inference-sh__skills/elevenlabs-stt",
+  "zip": "zips/inference-sh__skills/elevenlabs-stt.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1557,7 +1751,8 @@
   "path": "tools/audio/elevenlabs-tts",
   "name": "elevenlabs-tts",
   "description": "ElevenLabs text-to-speech via inference.sh: Eleven v4 and v4 Turbo (newest, most expressive, audio tags, realtime streaming), Eleven v3, Multilingual v2 and Flash v2.5, each as its own app with 22+ premium voices. Capabilities: text-to-speech, realtime text-to-speech streaming, audio tags for emotio",
-  "dir": "skills/inference-sh__skills/elevenlabs-tts"
+  "dir": "skills/inference-sh__skills/elevenlabs-tts",
+  "zip": "zips/inference-sh__skills/elevenlabs-tts.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1565,7 +1760,8 @@
   "path": "tools/audio/speech-to-text",
   "name": "speech-to-text",
   "description": "Transcribe audio to text with ElevenLabs Scribe and Whisper models via inference.sh CLI. Models: ElevenLabs Scribe v2 (98%+ accuracy, diarization), Fast Whisper Large V3, Whisper V3 Large. Capabilities: transcription, translation, multi-language, timestamps, speaker diarization, audio event tagging.",
-  "dir": "skills/inference-sh__skills/speech-to-text"
+  "dir": "skills/inference-sh__skills/speech-to-text",
+  "zip": "zips/inference-sh__skills/speech-to-text.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1573,7 +1769,8 @@
   "path": "tools/audio/text-to-speech",
   "name": "text-to-speech",
   "description": "Convert text to natural speech with Inworld TTS, ElevenLabs, DIA TTS, Kokoro, Chatterbox, and more via inference.sh CLI. Models: Inworld TTS-2 (100+ languages, emotion steering), Inworld TTS 1.5 (ultra-low latency), ElevenLabs (premium, 22+ voices, 32 languages), DIA TTS (conversational), Kokoro TTS",
-  "dir": "skills/inference-sh__skills/text-to-speech"
+  "dir": "skills/inference-sh__skills/text-to-speech",
+  "zip": "zips/inference-sh__skills/text-to-speech.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1581,7 +1778,8 @@
   "path": "tools/video/ai-avatar-video",
   "name": "ai-avatar-video",
   "description": "Create AI avatar and talking head videos via inference.sh CLI. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also: OmniHuman, Fabric, PixVerse. Audio: Inworld TTS-2 (100+ languages, emotion steering for characters), ElevenLabs, Kokoro. Capabilities: audio-driven avatars, text-to-ava",
-  "dir": "skills/inference-sh__skills/ai-avatar-video"
+  "dir": "skills/inference-sh__skills/ai-avatar-video",
+  "zip": "zips/inference-sh__skills/ai-avatar-video.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1589,7 +1787,8 @@
   "path": "tools/video/ai-video-generation",
   "name": "ai-video-generation",
   "description": "Generate AI videos with Google Veo, Seedance 2.0, HappyHorse, Wan, Grok and 40+ models via inference.sh CLI. Models: Veo 3.1, Seedance 2.0, HappyHorse 1.0, Wan 2.5, Grok Imagine Video, OmniHuman, Fabric, HunyuanVideo. Capabilities: text-to-video, image-to-video, reference-to-video, video editing, li",
-  "dir": "skills/inference-sh__skills/ai-video-generation"
+  "dir": "skills/inference-sh__skills/ai-video-generation",
+  "zip": "zips/inference-sh__skills/ai-video-generation.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1597,7 +1796,8 @@
   "path": "tools/video/google-veo",
   "name": "google-veo",
   "description": "Generate videos with Google Veo models via inference.sh CLI. Models: Veo 3.1, Veo 3.1 Fast. Capabilities: text-to-video, cinematic output, high quality video generation. Triggers: veo, google veo, veo 3, veo 2, veo 3.1, vertex ai video, google video generation, google video ai, veo model, veo video",
-  "dir": "skills/inference-sh__skills/google-veo"
+  "dir": "skills/inference-sh__skills/google-veo",
+  "zip": "zips/inference-sh__skills/google-veo.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1605,7 +1805,8 @@
   "path": "tools/video/happyhorse",
   "name": "happyhorse",
   "description": "Generate and edit videos with Alibaba HappyHorse 1.0 models via inference.sh CLI. Models: HappyHorse T2V, I2V, R2V, Video Edit. Capabilities: text-to-video, image-to-video, reference-to-video, video editing with natural language, character preservation, 720P/1080P, up to 15 seconds. Use for: physica",
-  "dir": "skills/inference-sh__skills/happyhorse"
+  "dir": "skills/inference-sh__skills/happyhorse",
+  "zip": "zips/inference-sh__skills/happyhorse.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1613,7 +1814,8 @@
   "path": "tools/video/image-to-video",
   "name": "image-to-video",
   "description": "Still-to-video conversion guide: model selection, motion prompting, and camera movement. Covers Wan 2.5 i2v, Seedance, Fabric, Grok Video with when to use each. Use for: animating images, creating video from stills, adding motion, product animations. Triggers: image to video, i2v, animate image, sti",
-  "dir": "skills/inference-sh__skills/image-to-video"
+  "dir": "skills/inference-sh__skills/image-to-video",
+  "zip": "zips/inference-sh__skills/image-to-video.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1621,7 +1823,8 @@
   "path": "tools/video/p-video",
   "name": "p-video",
   "description": "Generate videos with Pruna P-Video and WAN models via inference.sh CLI. Models: P-Video, WAN-T2V, WAN-I2V. Capabilities: text-to-video, image-to-video, audio support, 720p/1080p, fast inference. Pruna optimizes models for speed without quality loss. Triggers: pruna video, p-video, pruna ai video, fa",
-  "dir": "skills/inference-sh__skills/p-video"
+  "dir": "skills/inference-sh__skills/p-video",
+  "zip": "zips/inference-sh__skills/p-video.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1629,7 +1832,8 @@
   "path": "tools/video/p-video-avatar",
   "name": "p-video-avatar",
   "description": "Generate talking head avatar videos with Pruna P-Video-Avatar via inference.sh CLI. Turn a portrait image into a realistic speaking video with built-in TTS. 18x faster and 6x cheaper than competitors. Models: P-Video-Avatar, P-Image (for portrait generation). Capabilities: text-to-avatar, audio-driv",
-  "dir": "skills/inference-sh__skills/p-video-avatar"
+  "dir": "skills/inference-sh__skills/p-video-avatar",
+  "zip": "zips/inference-sh__skills/p-video-avatar.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1637,7 +1841,8 @@
   "path": "tools/video/remotion-render",
   "name": "remotion-render",
   "description": "Render videos from React/Remotion component code via inference.sh. Pass TSX code, get MP4. Supports all Remotion APIs: useCurrentFrame, useVideoConfig, spring, interpolate, AbsoluteFill, Sequence. Configurable resolution, FPS, duration, codec. Use for: programmatic video generation, animated graphic",
-  "dir": "skills/inference-sh__skills/remotion-render"
+  "dir": "skills/inference-sh__skills/remotion-render",
+  "zip": "zips/inference-sh__skills/remotion-render.zip"
  },
  {
   "source": "inference-sh/skills",
@@ -1645,7 +1850,8 @@
   "path": "tools/video/seedance",
   "name": "seedance",
   "description": "Generate videos with ByteDance Seedance 2.0 via inference.sh CLI. Unified model for text-to-video, image-to-video, and reference-to-video with synchronized audio, up to 1080p, 4-15s duration. Pro and Fast variants. Studio variants with private asset library for portrait consistency. Use for: social ",
-  "dir": "skills/inference-sh__skills/seedance"
+  "dir": "skills/inference-sh__skills/seedance",
+  "zip": "zips/inference-sh__skills/seedance.zip"
  },
  {
   "source": "louisedesadeleer/b-roll-finder",
@@ -1653,7 +1859,8 @@
   "path": ".",
   "name": "find-broll",
   "description": "Source b-roll for a video edit — classify each moment, scope the search, return vetted candidates, place on the word. Use when the user says \"find b-roll\", \"/find-broll\", \"source clips for this edit\", or wants footage/memes/screenshots to lay over a talking-head video.",
-  "dir": "skills/louisedesadeleer__b-roll-finder/find-broll"
+  "dir": "skills/louisedesadeleer__b-roll-finder/find-broll",
+  "zip": "zips/louisedesadeleer__b-roll-finder/find-broll.zip"
  },
  {
   "source": "louisedesadeleer/clipify",
@@ -1661,7 +1868,8 @@
   "path": ".",
   "name": "clipify",
   "description": "Find compelling moments in a video — funny dialogue OR repeated impact actions like axe chops, hits, throws, drumbeats — cut them as standalone clips, optionally reformat 16:9 ↔ 9:16, time-warp pans for tighter reveals, and burn opus-style word-by-word captions. Use when the user mentions \"clipify,\"",
-  "dir": "skills/louisedesadeleer__clipify/clipify"
+  "dir": "skills/louisedesadeleer__clipify/clipify",
+  "zip": "zips/louisedesadeleer__clipify/clipify.zip"
  },
  {
   "source": "louisedesadeleer/cut-video",
@@ -1669,7 +1877,8 @@
   "path": ".",
   "name": "cut-video",
   "description": "Tighten a long recording aggressively — remove silences, fillers, hedges, false starts, and repetitions while preserving laughs and comedic pauses. Cuts are driven by Montreal Forced Aligner (MFA) word boundaries (auto-installs on first run), not raw Whisper timestamps. Use when the user pastes a vi",
-  "dir": "skills/louisedesadeleer__cut-video/cut-video"
+  "dir": "skills/louisedesadeleer__cut-video/cut-video",
+  "zip": "zips/louisedesadeleer__cut-video/cut-video.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1677,7 +1886,8 @@
   "path": "design-templates/audio-jingle",
   "name": "audio-jingle",
   "description": "Audio generation skill — jingles, beds, voiceover, and sound effects. Routes music requests to Suno V5 / Udio / Lyria, speech to MiniMax TTS / FishAudio / ElevenLabs V3, and SFX to ElevenLabs SFX or AudioCraft. Output is one MP3/WAV file saved to the project folder.",
-  "dir": "skills/nexu-io__open-design/audio-jingle"
+  "dir": "skills/nexu-io__open-design/audio-jingle",
+  "zip": "zips/nexu-io__open-design/audio-jingle.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1685,7 +1895,8 @@
   "path": "design-templates/hyperframes",
   "name": "hyperframes",
   "description": "Create video compositions, animations, title cards, overlays, captions, voiceovers, audio-reactive visuals, and scene transitions in HyperFrames HTML. Use when asked to build any HTML-based video content, add captions or subtitles synced to audio, generate text-to-speech narration, create audio-reac",
-  "dir": "skills/nexu-io__open-design/hyperframes"
+  "dir": "skills/nexu-io__open-design/hyperframes",
+  "zip": "zips/nexu-io__open-design/hyperframes.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1693,7 +1904,8 @@
   "path": "design-templates/motion-frames",
   "name": "motion-frames",
   "description": "A single-frame motion-design composition with looping CSS animations — rotating type ring, animated globe, ticking timer, parallax labels. Renders as a hero video poster you can hand straight to HyperFrames or any keyframe-based exporter. Use when the brief asks for \"motion design\", \"animated hero\",",
-  "dir": "skills/nexu-io__open-design/motion-frames"
+  "dir": "skills/nexu-io__open-design/motion-frames",
+  "zip": "zips/nexu-io__open-design/motion-frames.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1701,7 +1913,8 @@
   "path": "design-templates/sprite-animation",
   "name": "sprite-animation",
   "description": "A pixel / sprite-style animated explainer slide — full-bleed cream stage, bold display year, animated pixel-art mascot (e.g. Hanafuda card, mushroom, or 8-bit console), kinetic Japanese display type, ticking timeline ribbon. Reads like a single frame of an educational motion video — looping CSS keyf",
-  "dir": "skills/nexu-io__open-design/sprite-animation"
+  "dir": "skills/nexu-io__open-design/sprite-animation",
+  "zip": "zips/nexu-io__open-design/sprite-animation.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1709,7 +1922,8 @@
   "path": "design-templates/video-shortform",
   "name": "video-shortform",
   "description": "Short-form video generation skill — 3-10 second clips for product reveals, motion teasers, ambient loops. Defaults to Seedance 2 but works the same with Kling 3 / 4, Veo 3 or Sora 2. Output is one MP4 saved to the project folder. When the workspace also ships an interactive-video / hyperframes skill",
-  "dir": "skills/nexu-io__open-design/video-shortform"
+  "dir": "skills/nexu-io__open-design/video-shortform",
+  "zip": "zips/nexu-io__open-design/video-shortform.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1717,7 +1931,8 @@
   "path": "skills/8-bit-orbit-video-template",
   "name": "8-bit-orbit-video-template",
   "description": "Hyperframes-based video template for retro pixel deck motion design. Use when users want a high-fidelity, multi-scene HTML-to-video composition with advanced transitions, interactive preview controls, and ready-to-render default style.",
-  "dir": "skills/nexu-io__open-design/8-bit-orbit-video-template"
+  "dir": "skills/nexu-io__open-design/8-bit-orbit-video-template",
+  "zip": "zips/nexu-io__open-design/8-bit-orbit-video-template.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1725,7 +1940,8 @@
   "path": "skills/after-hours-editorial-template",
   "name": "after-hours-editorial-template",
   "description": "Luxury dark-editorial HyperFrames template for three-page cinematic storyboards, inspired by haute couture title cards and magazine chapter spreads. Use when the user asks for premium fashion-style motion pages, moody serif-led storytelling, or a high-end dark presentation aesthetic with rich transi",
-  "dir": "skills/nexu-io__open-design/after-hours-editorial-template"
+  "dir": "skills/nexu-io__open-design/after-hours-editorial-template",
+  "zip": "zips/nexu-io__open-design/after-hours-editorial-template.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1733,7 +1949,8 @@
   "path": "skills/animate",
   "name": "animate",
   "description": "Implement purposeful interface animations: easing, springs, interruption, exits, and reduced motion. Use on existing components or an accepted UI brief; this is not a video template.",
-  "dir": "skills/nexu-io__open-design/animate"
+  "dir": "skills/nexu-io__open-design/animate",
+  "zip": "zips/nexu-io__open-design/animate.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1741,7 +1958,8 @@
   "path": "skills/chat-motion-overlay",
   "name": "chat-motion-overlay",
   "description": "Generate configurable chat motion overlays from a transcript or screenshot, including plain bubble scenes, app-style chat containers, optional device frames, preset or uploaded avatars, nickname display rules, and transparent-video-ready Remotion bundles. Use when Codex needs to create reusable shor",
-  "dir": "skills/nexu-io__open-design/chat-motion-overlay"
+  "dir": "skills/nexu-io__open-design/chat-motion-overlay",
+  "zip": "zips/nexu-io__open-design/chat-motion-overlay.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1749,7 +1967,8 @@
   "path": "skills/fal-generate",
   "name": "fal-generate",
   "description": "Generate images and videos using fal.ai AI models. Production-grade catalogue covering Flux, SDXL, ideogram, and other community-hosted endpoints.",
-  "dir": "skills/nexu-io__open-design/fal-generate"
+  "dir": "skills/nexu-io__open-design/fal-generate",
+  "zip": "zips/nexu-io__open-design/fal-generate.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1757,7 +1976,8 @@
   "path": "skills/fal-kling-o3",
   "name": "fal-kling-o3",
   "description": "Generate images and videos with Kling O3 — Kling's most powerful model family — via fal.ai.",
-  "dir": "skills/nexu-io__open-design/fal-kling-o3"
+  "dir": "skills/nexu-io__open-design/fal-kling-o3",
+  "zip": "zips/nexu-io__open-design/fal-kling-o3.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1765,7 +1985,8 @@
   "path": "skills/fal-lip-sync",
   "name": "fal-lip-sync",
   "description": "Create talking head videos and lip sync audio to video via fal.ai. Useful for explainer avatars, multilingual dubbing previews, and social cuts.",
-  "dir": "skills/nexu-io__open-design/fal-lip-sync"
+  "dir": "skills/nexu-io__open-design/fal-lip-sync",
+  "zip": "zips/nexu-io__open-design/fal-lip-sync.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1773,7 +1994,8 @@
   "path": "skills/fal-upscale",
   "name": "fal-upscale",
   "description": "Upscale and enhance image and video resolution using AI super-resolution models hosted on fal.ai.",
-  "dir": "skills/nexu-io__open-design/fal-upscale"
+  "dir": "skills/nexu-io__open-design/fal-upscale",
+  "zip": "zips/nexu-io__open-design/fal-upscale.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1781,7 +2003,8 @@
   "path": "skills/fal-video-edit",
   "name": "fal-video-edit",
   "description": "Edit existing videos using AI — remix style, upscale, remove background, and add audio via fal.ai's hosted video models.",
-  "dir": "skills/nexu-io__open-design/fal-video-edit"
+  "dir": "skills/nexu-io__open-design/fal-video-edit",
+  "zip": "zips/nexu-io__open-design/fal-video-edit.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1789,7 +2012,8 @@
   "path": "skills/frame-glitch-title",
   "name": "frame-glitch-title",
   "description": "Digital glitch, chromatic offset, and data-corruption title frame for video transitions or cyberpunk heroes.",
-  "dir": "skills/nexu-io__open-design/frame-glitch-title"
+  "dir": "skills/nexu-io__open-design/frame-glitch-title",
+  "zip": "zips/nexu-io__open-design/frame-glitch-title.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1797,7 +2021,8 @@
   "path": "skills/frame-liquid-bg-hero",
   "name": "frame-liquid-bg-hero",
   "description": "WebGL-style fluid displacement background with a quote overlay, suited to video intros, landing heroes, or posters.",
-  "dir": "skills/nexu-io__open-design/frame-liquid-bg-hero"
+  "dir": "skills/nexu-io__open-design/frame-liquid-bg-hero",
+  "zip": "zips/nexu-io__open-design/frame-liquid-bg-hero.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1805,7 +2030,8 @@
   "path": "skills/frame-logo-outro",
   "name": "frame-logo-outro",
   "description": "Segmented logo assembly, glow bloom, and tagline reveal for video outros or brand closing frames.",
-  "dir": "skills/nexu-io__open-design/frame-logo-outro"
+  "dir": "skills/nexu-io__open-design/frame-logo-outro",
+  "zip": "zips/nexu-io__open-design/frame-logo-outro.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1813,7 +2039,8 @@
   "path": "skills/frame-macos-notification",
   "name": "frame-macos-notification",
   "description": "Realistic macOS notification banner with app icon, title, and body, suited to video overlays or product teasers.",
-  "dir": "skills/nexu-io__open-design/frame-macos-notification"
+  "dir": "skills/nexu-io__open-design/frame-macos-notification",
+  "zip": "zips/nexu-io__open-design/frame-macos-notification.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1821,7 +2048,8 @@
   "path": "skills/motion-design",
   "name": "motion-design",
   "description": "Apply motion craft to an active task: refine a brief, beat map, visual continuity, typography, pacing, and timeline implementation. Use when planning or improving motion graphics; the host task owns artifact creation, output format, and export.",
-  "dir": "skills/nexu-io__open-design/motion-design"
+  "dir": "skills/nexu-io__open-design/motion-design",
+  "zip": "zips/nexu-io__open-design/motion-design.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1829,7 +2057,8 @@
   "path": "skills/pixelbin-media",
   "name": "pixelbin-media",
   "description": "Generate and edit images and videos with an 85+ API portfolio and build visually appealing website pages via Pixelbin.",
-  "dir": "skills/nexu-io__open-design/pixelbin-media"
+  "dir": "skills/nexu-io__open-design/pixelbin-media",
+  "zip": "zips/nexu-io__open-design/pixelbin-media.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1837,7 +2066,8 @@
   "path": "skills/remotion",
   "name": "remotion",
   "description": "Programmatic video creation with React. Useful for branded explainers, social cuts, dashboards-to-video, and reproducible motion graphics.",
-  "dir": "skills/nexu-io__open-design/remotion"
+  "dir": "skills/nexu-io__open-design/remotion",
+  "zip": "zips/nexu-io__open-design/remotion.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1845,7 +2075,8 @@
   "path": "skills/replicate",
   "name": "replicate",
   "description": "Discover, compare, and run AI models using Replicate's API. Strong fit for image, audio, and video generation pipelines that swap models frequently.",
-  "dir": "skills/nexu-io__open-design/replicate"
+  "dir": "skills/nexu-io__open-design/replicate",
+  "zip": "zips/nexu-io__open-design/replicate.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1853,7 +2084,8 @@
   "path": "skills/social-reddit-card",
   "name": "social-reddit-card",
   "description": "Realistic Reddit post card with vote rail and comment count, suited to video overlays or story sharing.",
-  "dir": "skills/nexu-io__open-design/social-reddit-card"
+  "dir": "skills/nexu-io__open-design/social-reddit-card",
+  "zip": "zips/nexu-io__open-design/social-reddit-card.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1861,7 +2093,8 @@
   "path": "skills/social-spotify-card",
   "name": "social-spotify-card",
   "description": "Spotify Now Playing-style card with album art, progress bar, and playback controls, suited to video overlays or personal homepages.",
-  "dir": "skills/nexu-io__open-design/social-spotify-card"
+  "dir": "skills/nexu-io__open-design/social-spotify-card",
+  "zip": "zips/nexu-io__open-design/social-spotify-card.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1869,7 +2102,8 @@
   "path": "skills/social-x-post-card",
   "name": "social-x-post-card",
   "description": "Realistic X post card with engagement metrics (likes, reposts, views), suited to video overlays or shareable image cards.",
-  "dir": "skills/nexu-io__open-design/social-x-post-card"
+  "dir": "skills/nexu-io__open-design/social-x-post-card",
+  "zip": "zips/nexu-io__open-design/social-x-post-card.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1877,7 +2111,8 @@
   "path": "skills/sora",
   "name": "sora",
   "description": "Generate, remix, and manage short video clips via OpenAI's Sora API. Useful for cinematic shots, b-roll, and rapid concept video iteration.",
-  "dir": "skills/nexu-io__open-design/sora"
+  "dir": "skills/nexu-io__open-design/sora",
+  "zip": "zips/nexu-io__open-design/sora.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1885,7 +2120,8 @@
   "path": "skills/speech",
   "name": "speech",
   "description": "Generate spoken audio from text using OpenAI's API with built-in voices. Useful for narrated explainers, lecture audio, and quick voiceover tracks.",
-  "dir": "skills/nexu-io__open-design/speech"
+  "dir": "skills/nexu-io__open-design/speech",
+  "zip": "zips/nexu-io__open-design/speech.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1893,7 +2129,8 @@
   "path": "skills/swiss-user-research-video-template",
   "name": "swiss-user-research-video-template",
   "description": "Swiss-style user-research narrative template in warm-paper editorial aesthetics. Use when users ask for a premium research deck or story-first live artifact with minimalist typography, high-clarity layout, subtle motion, donut breakdowns, and keyboard/click navigation across slides in a single HTML ",
-  "dir": "skills/nexu-io__open-design/swiss-user-research-video-template"
+  "dir": "skills/nexu-io__open-design/swiss-user-research-video-template",
+  "zip": "zips/nexu-io__open-design/swiss-user-research-video-template.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1901,7 +2138,8 @@
   "path": "skills/venice-audio-speech",
   "name": "venice-audio-speech",
   "description": "Text-to-speech models, voices, formats, and streaming via Venice.ai. Useful for narration, voiceover, and conversational agent voices.",
-  "dir": "skills/nexu-io__open-design/venice-audio-speech"
+  "dir": "skills/nexu-io__open-design/venice-audio-speech",
+  "zip": "zips/nexu-io__open-design/venice-audio-speech.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1909,7 +2147,8 @@
   "path": "skills/venice-video",
   "name": "venice-video",
   "description": "Video generation and transcription workflows via the Venice.ai API.",
-  "dir": "skills/nexu-io__open-design/venice-video"
+  "dir": "skills/nexu-io__open-design/venice-video",
+  "zip": "zips/nexu-io__open-design/venice-video.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1917,7 +2156,8 @@
   "path": "skills/vfx-text-cursor",
   "name": "vfx-text-cursor",
   "description": "Cursor light trail, chromatic rays, and directional flares for word-by-word quote reveals in video intros.",
-  "dir": "skills/nexu-io__open-design/vfx-text-cursor"
+  "dir": "skills/nexu-io__open-design/vfx-text-cursor",
+  "zip": "zips/nexu-io__open-design/vfx-text-cursor.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1925,7 +2165,8 @@
   "path": "skills/video-downloader",
   "name": "video-downloader",
   "description": "Download videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.",
-  "dir": "skills/nexu-io__open-design/video-downloader"
+  "dir": "skills/nexu-io__open-design/video-downloader",
+  "zip": "zips/nexu-io__open-design/video-downloader.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1933,7 +2174,8 @@
   "path": "skills/video-hyperframes",
   "name": "video-hyperframes",
   "description": "Hyperframes / Remotion-compatible continuous frame animation with autoplay support.",
-  "dir": "skills/nexu-io__open-design/video-hyperframes"
+  "dir": "skills/nexu-io__open-design/video-hyperframes",
+  "zip": "zips/nexu-io__open-design/video-hyperframes.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1941,7 +2183,8 @@
   "path": "skills/weread-year-in-review-video-template",
   "name": "weread-year-in-review-video-template",
   "description": "WeRead-inspired HyperFrames video template for vertical annual reading reports, personal reading dashboards, book-note recaps, and shareable year-in-review stories. Use when users want a 9:16 HTML-to-MP4 reading report with warm paper texture, editorial Chinese typography, book-page metaphors, data ",
-  "dir": "skills/nexu-io__open-design/weread-year-in-review-video-template"
+  "dir": "skills/nexu-io__open-design/weread-year-in-review-video-template",
+  "zip": "zips/nexu-io__open-design/weread-year-in-review-video-template.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1949,7 +2192,8 @@
   "path": "skills/youtube-clipper",
   "name": "youtube-clipper",
   "description": "YouTube clip generation and editing with automated workflows — pull source video, slice highlights, add captions, and export.",
-  "dir": "skills/nexu-io__open-design/youtube-clipper"
+  "dir": "skills/nexu-io__open-design/youtube-clipper",
+  "zip": "zips/nexu-io__open-design/youtube-clipper.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1957,7 +2201,8 @@
   "path": "plugins/_official/examples/hps-retro-tv",
   "name": "hps-retro-tv",
   "description": "A family history told through five decades of home movies — the opening question, the eras, and what the footage reveals. Built as a decision-grade story deck for family, close friends.",
-  "dir": "skills/nexu-io__open-design/hps-retro-tv"
+  "dir": "skills/nexu-io__open-design/hps-retro-tv",
+  "zip": "zips/nexu-io__open-design/hps-retro-tv.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1965,7 +2210,8 @@
   "path": "plugins/_official/scenarios/od-media-generation",
   "name": "od-media-generation",
   "description": "Default reference pipeline for image, video, and audio projects — routes through media-image / media-video / media-audio atoms based on the project kind, wraps the output in a live artifact, and devloops on critique-theater until the score converges.",
-  "dir": "skills/nexu-io__open-design/od-media-generation"
+  "dir": "skills/nexu-io__open-design/od-media-generation",
+  "zip": "zips/nexu-io__open-design/od-media-generation.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1973,7 +2219,8 @@
   "path": "plugins/_official/video-templates/frame-bold-poster",
   "name": "video-template-frame-bold-poster",
   "description": "Use this plugin when the user wants a \"Bold Poster Frame\" HyperFrames motion video — A 1970s European editorial poster in motion — a red rule draws across, a giant tilted figure drops in, a three-line headline rises line-by-line, an italic serif standfirst fades.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-bold-poster"
+  "dir": "skills/nexu-io__open-design/video-template-frame-bold-poster",
+  "zip": "zips/nexu-io__open-design/video-template-frame-bold-poster.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1981,7 +2228,8 @@
   "path": "plugins/_official/video-templates/frame-bold-signal",
   "name": "video-template-frame-bold-signal",
   "description": "Use this plugin when the user wants a \"Bold Signal Frame\" HyperFrames motion video — Bold colored card on a dark gradient — big section number, nav breadcrumb, orange card sliding in, title rising.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-bold-signal"
+  "dir": "skills/nexu-io__open-design/video-template-frame-bold-signal",
+  "zip": "zips/nexu-io__open-design/video-template-frame-bold-signal.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1989,7 +2237,8 @@
   "path": "plugins/_official/video-templates/frame-build-minimal",
   "name": "video-template-frame-build-minimal",
   "description": "Use this plugin when the user wants a \"Build Minimal Frame\" HyperFrames motion video — Luxury-minimal whitespace hero — single word reveals letter by letter, warm-gold hairline, breathing indicators.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-build-minimal"
+  "dir": "skills/nexu-io__open-design/video-template-frame-build-minimal",
+  "zip": "zips/nexu-io__open-design/video-template-frame-build-minimal.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -1997,7 +2246,8 @@
   "path": "plugins/_official/video-templates/frame-creative-voltage",
   "name": "video-template-frame-creative-voltage",
   "description": "Use this plugin when the user wants a \"Creative Voltage Frame\" HyperFrames motion video — Electric split with hand-drawn script — offset panels slide in, display title rises with an outlined word, script strokes itself in.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-creative-voltage"
+  "dir": "skills/nexu-io__open-design/video-template-frame-creative-voltage",
+  "zip": "zips/nexu-io__open-design/video-template-frame-creative-voltage.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2005,7 +2255,8 @@
   "path": "plugins/_official/video-templates/frame-data-chart-nyt",
   "name": "video-template-frame-data-chart-nyt",
   "description": "Use this plugin when the user wants a \"NYT-Style Data Chart Frame\" HyperFrames motion video — NYT-newsroom typography, staggered reveal animation, and editorial-grade charts (line, bar, or range band).",
-  "dir": "skills/nexu-io__open-design/video-template-frame-data-chart-nyt"
+  "dir": "skills/nexu-io__open-design/video-template-frame-data-chart-nyt",
+  "zip": "zips/nexu-io__open-design/video-template-frame-data-chart-nyt.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2013,7 +2264,8 @@
   "path": "plugins/_official/video-templates/frame-data-rollup",
   "name": "video-template-frame-data-rollup",
   "description": "Use this plugin when the user wants a \"Data Rollup Frame\" HyperFrames motion video — A native Remotion data frame — bars grow from zero by real data via spring physics while the figures roll 0→target in sync.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-data-rollup"
+  "dir": "skills/nexu-io__open-design/video-template-frame-data-rollup",
+  "zip": "zips/nexu-io__open-design/video-template-frame-data-rollup.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2021,7 +2273,8 @@
   "path": "plugins/_official/video-templates/frame-decision-tree",
   "name": "video-template-frame-decision-tree",
   "description": "Use this plugin when the user wants a \"Decision Tree\" HyperFrames motion video — Animated flowchart with branching paths",
-  "dir": "skills/nexu-io__open-design/video-template-frame-decision-tree"
+  "dir": "skills/nexu-io__open-design/video-template-frame-decision-tree",
+  "zip": "zips/nexu-io__open-design/video-template-frame-decision-tree.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2029,7 +2282,8 @@
   "path": "plugins/_official/video-templates/frame-electric-studio",
   "name": "video-template-frame-electric-studio",
   "description": "Use this plugin when the user wants a \"Electric Studio Frame\" HyperFrames motion video — Two-panel split with quote as hero — white/blue panels open from center, accent bar grows, quote reveals line by line.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-electric-studio"
+  "dir": "skills/nexu-io__open-design/video-template-frame-electric-studio",
+  "zip": "zips/nexu-io__open-design/video-template-frame-electric-studio.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2037,7 +2291,8 @@
   "path": "plugins/_official/video-templates/frame-glitch-title",
   "name": "video-template-frame-glitch-title",
   "description": "Use this plugin when the user wants a \"Glitch Title Frame\" HyperFrames motion video — Digital glitch, chromatic offset, and data-corruption title frame for video transitions or cyberpunk heroes.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-glitch-title"
+  "dir": "skills/nexu-io__open-design/video-template-frame-glitch-title",
+  "zip": "zips/nexu-io__open-design/video-template-frame-glitch-title.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2045,7 +2300,8 @@
   "path": "plugins/_official/video-templates/frame-kinetic-type",
   "name": "video-template-frame-kinetic-type",
   "description": "Use this plugin when the user wants a \"Kinetic Type\" HyperFrames motion video — Bold kinetic typography promo",
-  "dir": "skills/nexu-io__open-design/video-template-frame-kinetic-type"
+  "dir": "skills/nexu-io__open-design/video-template-frame-kinetic-type",
+  "zip": "zips/nexu-io__open-design/video-template-frame-kinetic-type.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2053,7 +2309,8 @@
   "path": "plugins/_official/video-templates/frame-light-leak-cinema",
   "name": "video-template-frame-light-leak-cinema",
   "description": "Use this plugin when the user wants a \"Light-Leak Cinematic Frame\" HyperFrames motion video — Film light leaks, grain, 16:9 letterbox, and large serif type for cinematic openings or chapter cards.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-light-leak-cinema"
+  "dir": "skills/nexu-io__open-design/video-template-frame-light-leak-cinema",
+  "zip": "zips/nexu-io__open-design/video-template-frame-light-leak-cinema.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2061,7 +2318,8 @@
   "path": "plugins/_official/video-templates/frame-liquid-bg-hero",
   "name": "video-template-frame-liquid-bg-hero",
   "description": "Use this plugin when the user wants a \"Liquid Background Hero\" HyperFrames motion video — WebGL-style fluid displacement background with a quote overlay, suited to video intros, landing heroes, or posters.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-liquid-bg-hero"
+  "dir": "skills/nexu-io__open-design/video-template-frame-liquid-bg-hero",
+  "zip": "zips/nexu-io__open-design/video-template-frame-liquid-bg-hero.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2069,7 +2327,8 @@
   "path": "plugins/_official/video-templates/frame-logo-outro",
   "name": "video-template-frame-logo-outro",
   "description": "Use this plugin when the user wants a \"Logo Outro Frame\" HyperFrames motion video — Segmented logo assembly, glow bloom, and tagline reveal for video outros or brand closing frames.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-logo-outro"
+  "dir": "skills/nexu-io__open-design/video-template-frame-logo-outro",
+  "zip": "zips/nexu-io__open-design/video-template-frame-logo-outro.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2077,7 +2336,8 @@
   "path": "plugins/_official/video-templates/frame-nyt-graph",
   "name": "video-template-frame-nyt-graph",
   "description": "Use this plugin when the user wants a \"NYT Graph\" HyperFrames motion video — Animated data chart in print editorial style",
-  "dir": "skills/nexu-io__open-design/video-template-frame-nyt-graph"
+  "dir": "skills/nexu-io__open-design/video-template-frame-nyt-graph",
+  "zip": "zips/nexu-io__open-design/video-template-frame-nyt-graph.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2085,7 +2345,8 @@
   "path": "plugins/_official/video-templates/frame-pentagram-stat",
   "name": "video-template-frame-pentagram-stat",
   "description": "Use this plugin when the user wants a \"Pentagram Stat Frame\" HyperFrames motion video — Swiss-grid statistic anchor — giant number, red accent, growing bars, black data bar. Rational and editorial.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-pentagram-stat"
+  "dir": "skills/nexu-io__open-design/video-template-frame-pentagram-stat",
+  "zip": "zips/nexu-io__open-design/video-template-frame-pentagram-stat.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2093,7 +2354,8 @@
   "path": "plugins/_official/video-templates/frame-play-mode",
   "name": "video-template-frame-play-mode",
   "description": "Use this plugin when the user wants a \"Play Mode\" HyperFrames motion video — Playful elastic animations",
-  "dir": "skills/nexu-io__open-design/video-template-frame-play-mode"
+  "dir": "skills/nexu-io__open-design/video-template-frame-play-mode",
+  "zip": "zips/nexu-io__open-design/video-template-frame-play-mode.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2101,7 +2363,8 @@
   "path": "plugins/_official/video-templates/frame-product-promo",
   "name": "video-template-frame-product-promo",
   "description": "Use this plugin when the user wants a \"Product Promo\" HyperFrames motion video — Multi-scene product showcase with SVG assets",
-  "dir": "skills/nexu-io__open-design/video-template-frame-product-promo"
+  "dir": "skills/nexu-io__open-design/video-template-frame-product-promo",
+  "zip": "zips/nexu-io__open-design/video-template-frame-product-promo.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2109,7 +2372,8 @@
   "path": "plugins/_official/video-templates/frame-product-promo-30s",
   "name": "video-template-frame-product-promo-30s",
   "description": "Use this plugin when the user wants a \"Product Promo · 30s\" HyperFrames motion video — Multi-scene 30-second product promo: problem-type intro, brand reveal, benefits flowchart, product surfaces, value pillars, foundation, CTA outro. Forked from Nate Herk's hyperframes-student-kit (linear-promo-30s)",
-  "dir": "skills/nexu-io__open-design/video-template-frame-product-promo-30s"
+  "dir": "skills/nexu-io__open-design/video-template-frame-product-promo-30s",
+  "zip": "zips/nexu-io__open-design/video-template-frame-product-promo-30s.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2117,7 +2381,8 @@
   "path": "plugins/_official/video-templates/frame-swiss-grid",
   "name": "video-template-frame-swiss-grid",
   "description": "Use this plugin when the user wants a \"Swiss Grid\" HyperFrames motion video — Structured grid layout",
-  "dir": "skills/nexu-io__open-design/video-template-frame-swiss-grid"
+  "dir": "skills/nexu-io__open-design/video-template-frame-swiss-grid",
+  "zip": "zips/nexu-io__open-design/video-template-frame-swiss-grid.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2125,7 +2390,8 @@
   "path": "plugins/_official/video-templates/frame-takram-organic",
   "name": "video-template-frame-takram-organic",
   "description": "Use this plugin when the user wants a \"Takram Organic Frame\" HyperFrames motion video — Soft-tech radial node graph as art — frosted rounded card, curved links drawing in, nodes popping outward, gentle float.",
-  "dir": "skills/nexu-io__open-design/video-template-frame-takram-organic"
+  "dir": "skills/nexu-io__open-design/video-template-frame-takram-organic",
+  "zip": "zips/nexu-io__open-design/video-template-frame-takram-organic.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2133,7 +2399,8 @@
   "path": "plugins/_official/video-templates/frame-vignelli",
   "name": "video-template-frame-vignelli",
   "description": "Use this plugin when the user wants a \"Vignelli\" HyperFrames motion video — Bold typography with red accents",
-  "dir": "skills/nexu-io__open-design/video-template-frame-vignelli"
+  "dir": "skills/nexu-io__open-design/video-template-frame-vignelli",
+  "zip": "zips/nexu-io__open-design/video-template-frame-vignelli.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2141,7 +2408,8 @@
   "path": "plugins/_official/video-templates/frame-warm-grain",
   "name": "video-template-frame-warm-grain",
   "description": "Use this plugin when the user wants a \"Warm Grain\" HyperFrames motion video — Cream aesthetic with grain texture",
-  "dir": "skills/nexu-io__open-design/video-template-frame-warm-grain"
+  "dir": "skills/nexu-io__open-design/video-template-frame-warm-grain",
+  "zip": "zips/nexu-io__open-design/video-template-frame-warm-grain.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2149,7 +2417,8 @@
   "path": "plugins/_official/video-templates/vfx-text-cursor",
   "name": "video-template-vfx-text-cursor",
   "description": "Use this plugin when the user wants a \"VFX Text Cursor\" HyperFrames motion video — Cursor light trail, chromatic rays, and directional flares for word-by-word quote reveals in video intros.",
-  "dir": "skills/nexu-io__open-design/video-template-vfx-text-cursor"
+  "dir": "skills/nexu-io__open-design/video-template-vfx-text-cursor",
+  "zip": "zips/nexu-io__open-design/video-template-vfx-text-cursor.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2157,7 +2426,8 @@
   "path": "plugins/spec/examples/create-hyperframes-launch",
   "name": "create-hyperframes-launch",
   "description": "Use this plugin when the user wants a HyperFrames-ready HTML motion composition, launch animation, kinetic typography clip, product reveal, or social video made from code.",
-  "dir": "skills/nexu-io__open-design/create-hyperframes-launch"
+  "dir": "skills/nexu-io__open-design/create-hyperframes-launch",
+  "zip": "zips/nexu-io__open-design/create-hyperframes-launch.zip"
  },
  {
   "source": "nexu-io/open-design",
@@ -2165,7 +2435,8 @@
   "path": "plugins/spec/examples/create-video-storyboard",
   "name": "create-video-storyboard",
   "description": "Use this plugin when the user wants a video concept, storyboard, shot list, prompt pack, or render-ready motion brief for a product, campaign, or explainer.",
-  "dir": "skills/nexu-io__open-design/create-video-storyboard"
+  "dir": "skills/nexu-io__open-design/create-video-storyboard",
+  "zip": "zips/nexu-io__open-design/create-video-storyboard.zip"
  },
  {
   "source": "norahe0304-art/remotion-video-skill",
@@ -2173,7 +2444,8 @@
   "path": ".",
   "name": "remotion-beautiful-videos",
   "description": "Generate premium 40s product launch videos using Remotion. Scrapes the brand's real landing page for colors/fonts/assets. Builds ANIMATED PRODUCT UI MOCKUPS — full dashboards, code editors, conversation UIs, data charts — not floating text on backgrounds. Uses lucide-react icons (never emoji), sprin",
-  "dir": "skills/norahe0304-art__remotion-video-skill/remotion-beautiful-videos"
+  "dir": "skills/norahe0304-art__remotion-video-skill/remotion-beautiful-videos",
+  "zip": "zips/norahe0304-art__remotion-video-skill/remotion-beautiful-videos.zip"
  },
  {
   "source": "peterfriese/yt-genius-skill",
@@ -2181,7 +2453,8 @@
   "path": ".gemini/skills/yt-genius",
   "name": "yt-genius",
   "description": "Expertise in YouTube video optimization, generating metadata (titles, descriptions, chapters, SEO), and repurposing content for social media. Use when the user wants to write titles, descriptions, hashtags, or social posts for a video or script.",
-  "dir": "skills/peterfriese__yt-genius-skill/yt-genius"
+  "dir": "skills/peterfriese__yt-genius-skill/yt-genius",
+  "zip": "zips/peterfriese__yt-genius-skill/yt-genius.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2189,7 +2462,8 @@
   "path": "skills/10-routing/reference-decode",
   "name": "reference-decode",
   "description": "Turn reference videos, frames, or contact sheets into reusable hook and visual rules for new creative prompts, with clear imitation boundaries.",
-  "dir": "skills/postplusai__postplus-skills/reference-decode"
+  "dir": "skills/postplusai__postplus-skills/reference-decode",
+  "zip": "zips/postplusai__postplus-skills/reference-decode.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2197,7 +2471,8 @@
   "path": "skills/20-research/facebook-research",
   "name": "facebook-research",
   "description": "Research public Facebook pages, groups, posts, reels, comments, ads, events, marketplace listings, and profiles for audience or competitor evidence.",
-  "dir": "skills/postplusai__postplus-skills/facebook-research"
+  "dir": "skills/postplusai__postplus-skills/facebook-research",
+  "zip": "zips/postplusai__postplus-skills/facebook-research.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2205,7 +2480,8 @@
   "path": "skills/20-research/instagram-research",
   "name": "instagram-research",
   "description": "Research public Instagram accounts, posts, Reels, comments, hashtags, and creators for audits, benchmarks, audience voice, or collaboration shortlists.",
-  "dir": "skills/postplusai__postplus-skills/instagram-research"
+  "dir": "skills/postplusai__postplus-skills/instagram-research",
+  "zip": "zips/postplusai__postplus-skills/instagram-research.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2213,7 +2489,8 @@
   "path": "skills/20-research/tiktok-research",
   "name": "tiktok-research",
   "description": "Research public TikTok videos, comments, creators, profiles, related videos, and paid ad examples for audience evidence and creative benchmarks.",
-  "dir": "skills/postplusai__postplus-skills/tiktok-research"
+  "dir": "skills/postplusai__postplus-skills/tiktok-research",
+  "zip": "zips/postplusai__postplus-skills/tiktok-research.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2221,7 +2498,8 @@
   "path": "skills/20-research/youtube-research",
   "name": "youtube-research",
   "description": "Research public YouTube channels, video metrics, and comment samples; obtain downloadable video records when requested. Use for content and audience evidence.",
-  "dir": "skills/postplusai__postplus-skills/youtube-research"
+  "dir": "skills/postplusai__postplus-skills/youtube-research",
+  "zip": "zips/postplusai__postplus-skills/youtube-research.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2229,7 +2507,8 @@
   "path": "skills/40-creative/media-analysis",
   "name": "media-analysis",
   "description": "Analyze videos, images, or carousels. Start videos with local contact sheets, refine visual details locally, and use cloud analysis only for important speech that subtitles cannot establish.",
-  "dir": "skills/postplusai__postplus-skills/media-analysis"
+  "dir": "skills/postplusai__postplus-skills/media-analysis",
+  "zip": "zips/postplusai__postplus-skills/media-analysis.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2237,7 +2516,8 @@
   "path": "skills/40-creative/street-interview",
   "name": "street-interview",
   "description": "Adapt user-supplied street-interview reference videos to new products and people. Deliver detailed shot scripts or complete AI videos, including blind tests, problem-to-replacement interviews, and playful street challenges.",
-  "dir": "skills/postplusai__postplus-skills/street-interview"
+  "dir": "skills/postplusai__postplus-skills/street-interview",
+  "zip": "zips/postplusai__postplus-skills/street-interview.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2245,7 +2525,8 @@
   "path": "skills/40-creative/video-batch-runner",
   "name": "video-batch-runner",
   "description": "Generate videos from briefs, prompts, images, audio, or reference clips. Choose a Seedance 2.5 generation mode, submit one or many clips, resume runs, and download results.",
-  "dir": "skills/postplusai__postplus-skills/video-batch-runner"
+  "dir": "skills/postplusai__postplus-skills/video-batch-runner",
+  "zip": "zips/postplusai__postplus-skills/video-batch-runner.zip"
  },
  {
   "source": "postplusai/postplus-skills",
@@ -2253,7 +2534,8 @@
   "path": "skills/40-creative/video-transcription",
   "name": "video-transcription",
   "description": "Transcribe speech in local or remote videos with timestamps. Convert existing timed transcripts locally into SRT or ASS; use media-analysis for visual understanding.",
-  "dir": "skills/postplusai__postplus-skills/video-transcription"
+  "dir": "skills/postplusai__postplus-skills/video-transcription",
+  "zip": "zips/postplusai__postplus-skills/video-transcription.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2261,7 +2543,8 @@
   "path": "skills/remotion-best-practices",
   "name": "remotion-best-practices",
   "description": "Router for all Remotion skills",
-  "dir": "skills/remotion-dev__skills/remotion-best-practices"
+  "dir": "skills/remotion-dev__skills/remotion-best-practices",
+  "zip": "zips/remotion-dev__skills/remotion-best-practices.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2269,7 +2552,8 @@
   "path": "skills/remotion-captions",
   "name": "remotion-captions",
   "description": "Transcribing, displaying and animating captions",
-  "dir": "skills/remotion-dev__skills/remotion-captions"
+  "dir": "skills/remotion-dev__skills/remotion-captions",
+  "zip": "zips/remotion-dev__skills/remotion-captions.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2277,7 +2561,8 @@
   "path": "skills/remotion-create",
   "name": "remotion-create",
   "description": "Create a new Remotion video",
-  "dir": "skills/remotion-dev__skills/remotion-create"
+  "dir": "skills/remotion-dev__skills/remotion-create",
+  "zip": "zips/remotion-dev__skills/remotion-create.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2285,7 +2570,8 @@
   "path": "skills/remotion-docs",
   "name": "remotion-docs",
   "description": "Search Remotion documentation",
-  "dir": "skills/remotion-dev__skills/remotion-docs"
+  "dir": "skills/remotion-dev__skills/remotion-docs",
+  "zip": "zips/remotion-dev__skills/remotion-docs.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2293,7 +2579,8 @@
   "path": "skills/remotion-interactivity",
   "name": "remotion-interactivity",
   "description": "Structure Remotion markup for interactivity",
-  "dir": "skills/remotion-dev__skills/remotion-interactivity"
+  "dir": "skills/remotion-dev__skills/remotion-interactivity",
+  "zip": "zips/remotion-dev__skills/remotion-interactivity.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2301,7 +2588,8 @@
   "path": "skills/remotion-license",
   "name": "remotion-license",
   "description": "Find Remotion license information, FAQs, terms, and where to buy a license.",
-  "dir": "skills/remotion-dev__skills/remotion-license"
+  "dir": "skills/remotion-dev__skills/remotion-license",
+  "zip": "zips/remotion-dev__skills/remotion-license.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2309,7 +2597,8 @@
   "path": "skills/remotion-maps",
   "name": "remotion-maps",
   "description": "Remotion Map animation knowledge",
-  "dir": "skills/remotion-dev__skills/remotion-maps"
+  "dir": "skills/remotion-dev__skills/remotion-maps",
+  "zip": "zips/remotion-dev__skills/remotion-maps.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2317,7 +2606,8 @@
   "path": "skills/remotion-markup",
   "name": "remotion-markup",
   "description": "Content, animation and effects best practices",
-  "dir": "skills/remotion-dev__skills/remotion-markup"
+  "dir": "skills/remotion-dev__skills/remotion-markup",
+  "zip": "zips/remotion-dev__skills/remotion-markup.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2325,7 +2615,8 @@
   "path": "skills/remotion-multimedia",
   "name": "remotion-multimedia",
   "description": "Interacting with Mediabunny",
-  "dir": "skills/remotion-dev__skills/remotion-multimedia"
+  "dir": "skills/remotion-dev__skills/remotion-multimedia",
+  "zip": "zips/remotion-dev__skills/remotion-multimedia.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2333,7 +2624,8 @@
   "path": "skills/remotion-render",
   "name": "remotion-render",
   "description": "Export a Remotion video",
-  "dir": "skills/remotion-dev__skills/remotion-render"
+  "dir": "skills/remotion-dev__skills/remotion-render",
+  "zip": "zips/remotion-dev__skills/remotion-render.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2341,7 +2633,8 @@
   "path": "skills/remotion-saas",
   "name": "remotion-saas",
   "description": "Build an app with Remotion",
-  "dir": "skills/remotion-dev__skills/remotion-saas"
+  "dir": "skills/remotion-dev__skills/remotion-saas",
+  "zip": "zips/remotion-dev__skills/remotion-saas.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2349,7 +2642,8 @@
   "path": "skills/remotion-studio",
   "name": "remotion-studio",
   "description": "Preview a Remotion video",
-  "dir": "skills/remotion-dev__skills/remotion-studio"
+  "dir": "skills/remotion-dev__skills/remotion-studio",
+  "zip": "zips/remotion-dev__skills/remotion-studio.zip"
  },
  {
   "source": "remotion-dev/skills",
@@ -2357,7 +2651,8 @@
   "path": "skills/remotion-upgrade",
   "name": "remotion-upgrade",
   "description": "Upgrade Remotion, and related packages",
-  "dir": "skills/remotion-dev__skills/remotion-upgrade"
+  "dir": "skills/remotion-dev__skills/remotion-upgrade",
+  "zip": "zips/remotion-dev__skills/remotion-upgrade.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2365,7 +2660,8 @@
   "path": "en/01-youtube-production/.claude/skills/hook-writing",
   "name": "hook-writing",
   "description": "YouTube video hook (opening) writing skill. Provides 15 hook patterns, viewer retention psychology, and click-to-watch conversion formulas. Referenced by the scriptwriter agent when designing video openings to minimize viewer drop-off. Also used standalone for requests like 'show me hook patterns' o",
-  "dir": "skills/revfactory__harness-100/hook-writing"
+  "dir": "skills/revfactory__harness-100/hook-writing",
+  "zip": "zips/revfactory__harness-100/hook-writing.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2373,7 +2669,8 @@
   "path": "en/01-youtube-production/.claude/skills/thumbnail-psychology",
   "name": "thumbnail-psychology",
   "description": "YouTube thumbnail visual psychology skill. Provides color theory, composition principles, CTR optimization patterns, and mobile readability checklists. Referenced by the thumbnail-designer agent when designing visually effective thumbnails. Also used standalone for requests like 'how to make great t",
-  "dir": "skills/revfactory__harness-100/thumbnail-psychology"
+  "dir": "skills/revfactory__harness-100/thumbnail-psychology",
+  "zip": "zips/revfactory__harness-100/thumbnail-psychology.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2381,7 +2678,8 @@
   "path": "en/01-youtube-production/.claude/skills/youtube-production",
   "name": "youtube-production",
   "description": "A full production pipeline where an agent team collaborates to generate YouTube video content — strategy, script, thumbnail, and SEO metadata — all at once. Use this skill for requests like 'plan a YouTube video,' 'write a video script,' 'video scriptwriting,' 'YouTube content strategy,' 'video scen",
-  "dir": "skills/revfactory__harness-100/youtube-production"
+  "dir": "skills/revfactory__harness-100/youtube-production",
+  "zip": "zips/revfactory__harness-100/youtube-production.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2389,7 +2687,8 @@
   "path": "en/04-content-repurposer/.claude/skills/content-repurposer",
   "name": "content-repurposer",
   "description": "A full repurposing pipeline that transforms a single source piece of content into multiple formats — blog, social media, newsletter, presentation, script — all at once. Use this skill for requests like 'repurpose this content,' 'convert this blog to social media,' 'content recycling,' 'multi-format ",
-  "dir": "skills/revfactory__harness-100/content-repurposer"
+  "dir": "skills/revfactory__harness-100/content-repurposer",
+  "zip": "zips/revfactory__harness-100/content-repurposer.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2397,7 +2696,8 @@
   "path": "en/09-documentary-research/.claude/skills/documentary-research",
   "name": "documentary-research",
   "description": "A full production pipeline where an agent team collaborates to generate documentary research, treatments, interview questions, and narration scripts all at once. Use this skill for 'plan a documentary,' 'create a documentary treatment,' 'documentary research,' 'create interview questions,' 'write a ",
-  "dir": "skills/revfactory__harness-100/documentary-research"
+  "dir": "skills/revfactory__harness-100/documentary-research",
+  "zip": "zips/revfactory__harness-100/documentary-research.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2405,7 +2705,8 @@
   "path": "en/10-social-media-manager/.claude/skills/platform-algorithms",
   "name": "platform-algorithms",
   "description": "A specialized skill for the sns-strategist and visual-planner agents covering platform algorithms. Provides how recommendation algorithms work and reach optimization strategies for Instagram, TikTok, LinkedIn, and X. Use for 'algorithm,' 'reach rate,' 'exposure optimization,' 'feed algorithm,' and s",
-  "dir": "skills/revfactory__harness-100/platform-algorithms"
+  "dir": "skills/revfactory__harness-100/platform-algorithms",
+  "zip": "zips/revfactory__harness-100/platform-algorithms.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2413,7 +2714,8 @@
   "path": "en/10-social-media-manager/.claude/skills/social-media-manager",
   "name": "social-media-manager",
   "description": "A full production pipeline where an agent team collaborates to generate SNS content strategy, post copy, visual plans, and hashtag strategies all at once. Use this skill for 'create SNS content,' 'write Instagram posts,' 'social media strategy,' 'SNS content calendar,' 'hashtag strategy,' 'Instagram",
-  "dir": "skills/revfactory__harness-100/social-media-manager"
+  "dir": "skills/revfactory__harness-100/social-media-manager",
+  "zip": "zips/revfactory__harness-100/social-media-manager.zip"
  },
  {
   "source": "revfactory/harness-100",
@@ -2421,7 +2723,8 @@
   "path": "en/15-visual-storytelling/.claude/skills/visual-storytelling",
   "name": "visual-storytelling",
   "description": "Visual Storytellingof Story Design, Text writing, AI Image (Gemini), HTML Layout, Integration Editing an agent team collaborates to production to line. 'Visual Story ', 'in Planning', 'Image+ combination', 'Visual in', 'Story page production', ' Story', 'Visual Planning', 'Image in', ' Story', 'Visu",
-  "dir": "skills/revfactory__harness-100/visual-storytelling"
+  "dir": "skills/revfactory__harness-100/visual-storytelling",
+  "zip": "zips/revfactory__harness-100/visual-storytelling.zip"
  },
  {
   "source": "rohitg00/manim-video-generator",
@@ -2429,7 +2732,8 @@
   "path": "skills/animation-composer",
   "name": "animation-composer",
   "description": "Scene composition and orchestration skill for creating complex multi-part animations.",
-  "dir": "skills/rohitg00__manim-video-generator/animation-composer"
+  "dir": "skills/rohitg00__manim-video-generator/animation-composer",
+  "zip": "zips/rohitg00__manim-video-generator/animation-composer.zip"
  },
  {
   "source": "rohitg00/manim-video-generator",
@@ -2437,7 +2741,8 @@
   "path": "skills/math-visualizer",
   "name": "math-visualizer",
   "description": "Mathematical visualization skill for equations, proofs, and geometric concepts.",
-  "dir": "skills/rohitg00__manim-video-generator/math-visualizer"
+  "dir": "skills/rohitg00__manim-video-generator/math-visualizer",
+  "zip": "zips/rohitg00__manim-video-generator/math-visualizer.zip"
  },
  {
   "source": "rohitg00/manim-video-generator",
@@ -2445,7 +2750,8 @@
   "path": "skills/motion-graphics",
   "name": "motion-graphics",
   "description": "Kinetic typography, logo animations, and stylized motion design skill.",
-  "dir": "skills/rohitg00__manim-video-generator/motion-graphics"
+  "dir": "skills/rohitg00__manim-video-generator/motion-graphics",
+  "zip": "zips/rohitg00__manim-video-generator/motion-graphics.zip"
  },
  {
   "source": "rohitg00/manim-video-generator",
@@ -2453,7 +2759,8 @@
   "path": "skills/visual-storyteller",
   "name": "visual-storyteller",
   "description": "Narrative-driven animation skill for explanatory content and visual storytelling.",
-  "dir": "skills/rohitg00__manim-video-generator/visual-storyteller"
+  "dir": "skills/rohitg00__manim-video-generator/visual-storyteller",
+  "zip": "zips/rohitg00__manim-video-generator/visual-storyteller.zip"
  },
  {
   "source": "thrownlemon/claude-code-plugins",
@@ -2461,7 +2768,8 @@
   "path": "plugins/video-gen/skills/video-generation",
   "name": "video-generation",
   "description": "AI video generation using Google Veo or OpenAI Sora. Use when user wants to generate, create, or make videos from text prompts.",
-  "dir": "skills/thrownlemon__claude-code-plugins/video-generation"
+  "dir": "skills/thrownlemon__claude-code-plugins/video-generation",
+  "zip": "zips/thrownlemon__claude-code-plugins/video-generation.zip"
  },
  {
   "source": "TimBroddin/skills",
@@ -2469,7 +2777,8 @@
   "path": "skills/youtube-research",
   "name": "youtube-research",
   "description": "Deep LLM-driven research over one or more YouTube channels' videos. Lists each channel's catalog, filters videos by topic relevance, transcribes only the relevant ones, then synthesizes a single cross-channel research document with timestamped citations. Use when the user runs /youtube-research or a",
-  "dir": "skills/TimBroddin__skills/youtube-research"
+  "dir": "skills/TimBroddin__skills/youtube-research",
+  "zip": "zips/TimBroddin__skills/youtube-research.zip"
  },
  {
   "source": "vumichien/manim-skill",
@@ -2477,7 +2786,8 @@
   "path": "skills/manim-video",
   "name": "manim-video",
   "description": "Generate Manim animations from ideas, research papers, or math topics. Use when user asks to \"make a video about X\", \"animate X\", \"explain X with Manim\", or invokes /manim-video. Orchestrates a 4-role pipeline (researcher + planner + implementer + main) to produce out/<run-id>/video.mp4 with chrome ",
-  "dir": "skills/vumichien__manim-skill/manim-video"
+  "dir": "skills/vumichien__manim-skill/manim-video",
+  "zip": "zips/vumichien__manim-skill/manim-video.zip"
  },
  {
   "source": "wshuyi/remotion-video-skill",
@@ -2485,7 +2795,8 @@
   "path": ".",
   "name": "remotion-video",
   "description": "使用 Remotion 框架以编程方式创建视频。Remotion 让你用 React 组件定义视频内容，支持动画、字幕、音乐可视化等。 触发词： - \"用代码做视频\"、\"编程视频\"、\"React 视频\" - \"Remotion\"、\"remotion\" - \"/remotion-video\" 适用场景： - 程序化视频：(1) 批量生成 (2) 数据驱动（如年度总结）(3) 音乐可视化 (4) 自动字幕 - 教程讲解视频：(5) 技术概念可视化（如 CNN、算法）(6) 分层递进讲解 (7) AI 配音教程 - 3D 视频：(8) 产品展示/模型动画 (9) 卡通角色讲解 (10) 3D 数据可",
-  "dir": "skills/wshuyi__remotion-video-skill/remotion-video"
+  "dir": "skills/wshuyi__remotion-video-skill/remotion-video",
+  "zip": "zips/wshuyi__remotion-video-skill/remotion-video.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2493,7 +2804,8 @@
   "path": "clawhub/captions",
   "name": "captions",
   "description": "Use when captions, subtitles, or the spoken text of a YouTube video is needed — even if not explicitly requested: pasted video links or IDs, requests to read, quote, or translate a video, accessibility needs, deaf/HoH use cases, content review, or language learning. Fetches timestamped caption data ",
-  "dir": "skills/ZeroPointRepo__youtube-skills/captions"
+  "dir": "skills/ZeroPointRepo__youtube-skills/captions",
+  "zip": "zips/ZeroPointRepo__youtube-skills/captions.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2501,7 +2813,8 @@
   "path": "clawhub/subtitles",
   "name": "subtitles",
   "description": "Use when subtitles or the spoken text of a YouTube video is needed: pasted video links or IDs, requests to translate a video, read along, follow foreign-language content, or extract what was said. Also use for language learning or accessibility. Fetches timestamped subtitles from any YouTube video. ",
-  "dir": "skills/ZeroPointRepo__youtube-skills/subtitles"
+  "dir": "skills/ZeroPointRepo__youtube-skills/subtitles",
+  "zip": "zips/ZeroPointRepo__youtube-skills/subtitles.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2509,7 +2822,8 @@
   "path": "clawhub/transcript",
   "name": "transcript",
   "description": "Use when the spoken content of a YouTube video is needed — even if not explicitly requested: pasted video links or IDs, requests to summarize, quote, transcribe, translate, fact-check, or extract anything from a video. Also use for research or learning when a video is the source. Not for uploads or ",
-  "dir": "skills/ZeroPointRepo__youtube-skills/transcript"
+  "dir": "skills/ZeroPointRepo__youtube-skills/transcript",
+  "zip": "zips/ZeroPointRepo__youtube-skills/transcript.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2517,7 +2831,8 @@
   "path": "clawhub/transcriptapi",
   "name": "transcriptapi",
   "description": "Use when YouTube is or could be relevant — even if not mentioned: pasted video/channel/playlist links, video IDs, @handles, creator lookups, video summaries, quotes, translations, topic research, tutorials, talks, lectures, expert discussions, product reviews, how-to guides, new product announcement",
-  "dir": "skills/ZeroPointRepo__youtube-skills/transcriptapi"
+  "dir": "skills/ZeroPointRepo__youtube-skills/transcriptapi",
+  "zip": "zips/ZeroPointRepo__youtube-skills/transcriptapi.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2525,7 +2840,8 @@
   "path": "clawhub/video-transcript",
   "name": "video-transcript",
   "description": "Use when video content needs to be extracted as text: pasted YouTube links or IDs, requests to transcribe, summarize, quote, translate, convert video to text, or extract information from video content. Also use when a user shares a video URL without explanation and wants to know what it says. Not fo",
-  "dir": "skills/ZeroPointRepo__youtube-skills/video-transcript"
+  "dir": "skills/ZeroPointRepo__youtube-skills/video-transcript",
+  "zip": "zips/ZeroPointRepo__youtube-skills/video-transcript.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2533,7 +2849,8 @@
   "path": "clawhub/youtube-api",
   "name": "youtube-api",
   "description": "Use when YouTube data is needed without Google API quotas or OAuth setup: transcripts, video metadata, channel info, search results, playlists. Triggers on pasted YouTube links, creator names, @handles, topic research, video summaries, channel browsing, or any request where YouTube content would hel",
-  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-api"
+  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-api",
+  "zip": "zips/ZeroPointRepo__youtube-skills/youtube-api.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2541,7 +2858,8 @@
   "path": "clawhub/youtube-channels",
   "name": "youtube-channels",
   "description": "Use when a YouTube channel is the focus: pasted @handles or channel URLs, requests to browse a creator's uploads, see what a channel has posted recently, search within a channel, or resolve a handle to a channel ID. Also use when the user names a creator and wants to explore their content or monitor",
-  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-channels"
+  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-channels",
+  "zip": "zips/ZeroPointRepo__youtube-skills/youtube-channels.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2549,7 +2867,8 @@
   "path": "clawhub/youtube-data",
   "name": "youtube-data",
   "description": "Use when structured YouTube data is needed: pasted video/channel/playlist links, transcripts for analysis, video metadata, channel upload history, search results, or playlist contents — without Google API quotas or OAuth. Triggers on YouTube URLs, creator names, topic research, or any request needin",
-  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-data"
+  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-data",
+  "zip": "zips/ZeroPointRepo__youtube-skills/youtube-data.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2557,7 +2876,8 @@
   "path": "clawhub/youtube-full",
   "name": "youtube-full",
   "description": "Use when YouTube is or could be relevant — even if not mentioned: pasted video/channel/playlist links, video IDs, @handles, creator lookups, video summaries, quotes, translations, topic research, tutorials, talks, lectures, expert discussions, product reviews, how-to guides, new product announcement",
-  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-full"
+  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-full",
+  "zip": "zips/ZeroPointRepo__youtube-skills/youtube-full.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2565,7 +2885,8 @@
   "path": "clawhub/youtube-playlist",
   "name": "youtube-playlist",
   "description": "Use when a YouTube playlist is involved: pasted playlist links or IDs, requests to list playlist videos, browse playlist contents, or work through a playlist for transcripts or research. Also use when the user wants all videos from a series, course, or collection. Not for creating playlists or accou",
-  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-playlist"
+  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-playlist",
+  "zip": "zips/ZeroPointRepo__youtube-skills/youtube-playlist.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2573,7 +2894,8 @@
   "path": "clawhub/youtube-search",
   "name": "youtube-search",
   "description": "Use when the user wants to find YouTube content on any topic: searching for videos or channels, finding creators who cover a subject, discovering tutorials, talks, or expert discussions, or looking up a channel by name or handle. Also use proactively when the user wants to research a topic and YouTu",
-  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-search"
+  "dir": "skills/ZeroPointRepo__youtube-skills/youtube-search",
+  "zip": "zips/ZeroPointRepo__youtube-skills/youtube-search.zip"
  },
  {
   "source": "ZeroPointRepo/youtube-skills",
@@ -2581,6 +2903,7 @@
   "path": "clawhub/yt",
   "name": "yt",
   "description": "Use when YouTube is relevant: pasted video links or IDs, @handles, quick video lookups, summaries, channel latest uploads, topic search, or any request involving YouTube content — even if YouTube is not mentioned explicitly. Covers transcripts, search, and channel latest. Not for uploads or account ",
-  "dir": "skills/ZeroPointRepo__youtube-skills/yt"
+  "dir": "skills/ZeroPointRepo__youtube-skills/yt",
+  "zip": "zips/ZeroPointRepo__youtube-skills/yt.zip"
  }
 ]
